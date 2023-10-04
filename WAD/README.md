@@ -1,6 +1,6 @@
 # Attribute Types in XML
 
-## Different types of attributes in XML
+### Different types of attributes in XML
 - **CDATA**: Represents character data and can contain any valid characters.
 - **ID**: Unique identifier for an element within the XML document.
 - **IDREF**: Reference to the ID attribute value of another element.
@@ -10,10 +10,10 @@
 - **NMTOKEN**: Represents a name token consisting of letters, digits, hyphens, underscores, and periods.
 - **NMTOKENS**: Multiple name tokens separated by whitespace.
 
-## Understanding and Using Attribute Values
+### Understanding and Using Attribute Values
 Attribute values provide specific information related to an element. They can be used to provide additional details, such as names, dates, or measurements. Attribute values are enclosed in quotation marks (`''` or `""`).
 
-## Attribute Data Types and Restrictions
+### Attribute Data Types and Restrictions
 XML allows for specifying data types and restrictions for attributes. This ensures that attribute values conform to specific formats or constraints. Common data types include:
 - **String**: Represents any sequence of characters.
 - **Boolean**: Represents true/false values.
