@@ -199,26 +199,26 @@ The `box-sizing` property in CSS allows you to control how the total width and h
 
 # Attribute Types in XML
 
-### Different types of attributes in XML
-- **CDATA**: Represents character data and can contain any valid characters.
-- **ID**: Unique identifier for an element within the XML document.
-- **IDREF**: Reference to the ID attribute value of another element.
-- **IDREFS**: Multiple ID references separated by whitespace.
-- **ENTITY**: Represents an external entity reference.
-- **ENTITIES**: Multiple entity references separated by whitespace.
-- **NMTOKEN**: Represents a name token consisting of letters, digits, hyphens, underscores, and periods.
-- **NMTOKENS**: Multiple name tokens separated by whitespace.
+-  Different types of attributes in XML
+   - **CDATA**: Represents character data and can contain any valid characters.
+   - **ID**: Unique identifier for an element within the XML document.
+   - **IDREF**: Reference to the ID attribute value of another element.
+   - **IDREFS**: Multiple ID references separated by whitespace.
+   - **ENTITY**: Represents an external entity reference.
+   - **ENTITIES**: Multiple entity references separated by whitespace.
+   - **NMTOKEN**: Represents a name token consisting of letters, digits, hyphens, underscores, and periods.
+   - **NMTOKENS**: Multiple name tokens separated by whitespace.
 
-### Understanding and Using Attribute Values
-Attribute values provide specific information related to an element. They can be used to provide additional details, such as names, dates, or measurements. Attribute values are enclosed in quotation marks (`''` or `""`).
+- Understanding and Using Attribute Values
+   - Attribute values provide specific information related to an element. They can be used to provide additional details, such as names, dates, or measurements. Attribute values are enclosed in quotation marks (`''` or `""`).
 
-### Attribute Data Types and Restrictions
-XML allows for specifying data types and restrictions for attributes. This ensures that attribute values conform to specific formats or constraints. Common data types include:
-- **String**: Represents any sequence of characters.
-- **Boolean**: Represents true/false values.
-- **Numeric**: Represents numerical values.
-- **Date**: Represents date values.
-- **Enumeration**: Represents a predefined set of values.
+- Attribute Data Types and Restrictions
+   - XML allows for specifying data types and restrictions for attributes. This ensures that attribute values conform to specific formats or constraints. Common data types include:
+      - **String**: Represents any sequence of characters.
+      - **Boolean**: Represents true/false values.
+      - **Numeric**: Represents numerical values.
+      - **Date**: Represents date values.
+      - **Enumeration**: Represents a predefined set of values.
 
 By defining data types and restrictions, XML ensures the consistency and validity of attribute values within a document.
 
@@ -258,12 +258,12 @@ By defining data types and restrictions, XML ensures the consistency and validit
 
 # Arrays, String Handling
 
-### Arrays
-Arrays are a fundamental data structure in programming that allow us to store and manipulate collections of elements. With arrays, we can store multiple values of the same type and perform operations on them. Array methods provide various functionalities like adding or removing elements, sorting, filtering, and more.
-
-### String Handling
-String handling involves manipulating and accessing strings in programming. Strings are sequences of characters and are used to represent text. Common string operations include concatenation, splitting, searching for substrings, replacing characters, and converting cases.
-
+- Arrays
+   - Arrays are a fundamental data structure in programming that allow us to store and manipulate collections of elements. With arrays, we can store multiple values of the same type and perform operations on them. Array methods provide various functionalities like adding or removing elements, sorting, filtering, and more.
+  
+- String Handling
+   - String handling involves manipulating and accessing strings in programming. Strings are sequences of characters and are used to represent text. Common string operations include concatenation, splitting, searching for substrings, replacing characters, and converting cases.
+  
 Both arrays and string handling play crucial roles in many programming tasks and are essential concepts for developers to understand and utilize effectively.
 
 ## What is the purpose of arrays in programming?
