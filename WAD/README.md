@@ -1,3 +1,71 @@
+# HTML5 Basics and Basic Tags
+
+- **Introduction to HTML5:** HTML5 is the latest version of the Hypertext Markup Language, which is used to structure and present content on the web.
+- **Document structure:** HTML documents consist of nested elements that define the structure and hierarchy of the content. The basic structure includes the `<html>`, `<head>`, and `<body>` tags.
+- **Basic HTML tags:** HTML tags are used to mark up different parts of the document. The <html> tag represents the root of an HTML document, the `<head>` tag contains metadata about the document, and the <body> tag contains the visible content.
+- **Text formatting tags:** HTML provides tags to format and style text. Headings are marked up with `<h1>` to `<h6>` tags, paragraphs with the `<p>` tag, and text can be made bold with the `<strong>` tag or emphasized with the `<em>` tag.
+- **Hyperlinks:** Hyperlinks allow users to navigate between web pages. They are created using the `<a>` (anchor) tag, with the href attribute specifying the URL of the destination page.
+
+## What is HTML5 and what is its purpose?
+
+HTML5 is the fifth and latest version of the Hypertext Markup Language (HTML), which is the standard language for creating web pages. It was introduced to enhance and improve the capabilities of HTML, enabling the creation of more dynamic and interactive web content. HTML5 encompasses a wide range of features, including multimedia support, advanced scripting, and enhanced semantics.
+
+## Describe the basic structure of an HTML document.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+<body>
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+</body>
+</html>
+```
+
+- `<!DOCTYPE html>`: Specifies that the document is written in HTML5.
+- `<html>`: The root element that contains all other HTML elements.
+- `<head>`: Contains meta-information about the document, like the title.
+- `<title>`: Sets the title of the web page (shown in the browser's title bar).
+- `<body>`: Contains the visible content of the web page.
+- `<h1>`, `<p>`: Example elements for heading and paragraph.
+
+## How are different parts of an HTML document marked up using tags?
+
+- Headings: `<h1>`, `<h2>`, `<h3>`, ... `<h6>`
+- Paragraphs: `<p>`
+- Lists: `<ul>` (unordered list), `<ol>` (ordered list), `<li>` (list item)
+- Links: `<a>` (anchor)
+- Images: `<img>`
+- Tables: `<table>`, `<tr>` (table row), `<td>` (table data cell)
+- Forms: `<form>`, `<input>`, `<button>`, `<select>`, `<textarea>`
+
+## Which tags are used for text formatting in HTML?
+
+- `<strong>`: Indicates strong importance (usually displayed as bold).
+- `<em>`: Indicates emphasized text (usually displayed as italic).
+- `<u>`: Underlines text.
+- `<s>`: Renders text with a strikethrough.
+- `<sup>`: Renders text as superscript.
+- `<sub>`: Renders text as subscript.
+
+## How are hyperlinks created in HTML and what is their purpose?
+
+Hyperlinks, created using the `<a>` (anchor) tag, allow users to navigate between different web pages or resources. They are a fundamental feature of the web, enabling the seamless linking of content across the internet. Hyperlinks can point to other web pages, documents, images, or any other resource accessible via a URL.
+
+Example of a hyperlink:
+
+```html
+<a href="https://www.example.com">Click here to visit Example</a>
+```
+
+In this example, the text "Click here to visit Example" becomes a clickable link that, when clicked, will take the user to the website at `https://www.example.com`.
+
+
+---
+
 # HTML Media
 
 - Embedding videos and audio using `<video>` and `<audio>` tags: HTML provides the <video> and <audio> tags to embed videos and audio files in web pages. These tags allow specifying the source file, dimensions, controls, and other attributes to customize the media playback.
