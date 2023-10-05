@@ -1,3 +1,74 @@
+# Functions in JavaScript
+
+**Declaring and Invoking Functions**
+
+In JavaScript, functions can be declared using the function keyword. Once a function is declared, it can be invoked or called to execute the code inside it. Functions allow us to encapsulate reusable blocks of code, making our programs more modular and easier to maintain.
+
+**Function Parameters and Return Values**
+
+Functions in JavaScript can have parameters, which act as placeholders for values that are passed into the function when it is invoked. These parameters allow us to customize the behavior of the function. Additionally, functions can also return values using the return keyword, allowing us to obtain results or data from the function's execution.
+
+**Function Expressions and Arrow Functions**
+
+In JavaScript, functions can also be assigned to variables or stored in data structures. These are known as function expressions. Arrow functions, introduced in ES6, provide a more concise syntax for writing functions. They are especially useful for writing shorter, more readable code.
+
+## What is the purpose of functions in JavaScript?
+Functions in JavaScript serve the purpose of organizing and encapsulating blocks of code into reusable units. They allow you to define a set of instructions that can be executed multiple times with different inputs. Functions play a crucial role in modularizing code, improving maintainability, and reducing redundancy.
+
+## How are function parameters used in JavaScript?
+Function parameters are placeholders for values that a function expects to receive when it is called. They allow you to pass data or information into a function, which the function can then use to perform its operations. Parameters are specified in the function declaration and act as variables that receive values when the function is invoked.
+
+```javascript
+function addNumbers(a, b) {
+  return a + b;
+}
+
+// Here, 'a' and 'b' are parameters.
+// When you call addNumbers(3, 4), 3 and 4 are the arguments that will be assigned to 'a' and 'b'.
+```
+
+## What keyword is used to return a value from a function?
+
+The keyword used to return a value from a function in JavaScript is `return`. When `return` is followed by an expression, that value will be sent back as the result of the function.
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+In this example, if you call `multiply(2, 3)`, the function will return `6`.
+
+## What are function expressions and how are they used?
+A function expression is a way of defining a function using an expression, rather than a function declaration. It can be assigned to a variable, passed as an argument to another function, or returned from a function.
+
+```javascript
+const myFunction = function() {
+  // Function logic here
+};
+```
+
+Function expressions are powerful because they allow you to treat functions as first-class citizens in JavaScript, meaning they can be manipulated and used like any other value.
+
+## How do arrow functions differ from regular functions in JavaScript?
+
+Differences Between Arrow Functions and Regular Functions
+Arrow functions in JavaScript are a more concise way of writing anonymous functions. They have a few key differences from regular functions:
+
+- **Lexical `this` Binding**: Arrow functions do not have their own `this` context. They inherit the `this` value from their enclosing scope.
+
+- **No `arguments` Object**: Arrow functions do not have their own `arguments` object. Instead, they inherit it from their outer function.
+
+- **Cannot be Used as Constructors**: Arrow functions cannot be used with the `new` keyword to create objects. They do not have a `prototype` property.
+
+- **No `super` Keyword**: Arrow functions do not have their own `super` binding. They inherit it from their outer function.
+
+Arrow functions are often used for shorter, more concise function expressions, while regular functions are still preferred in situations where you need the flexibility of `this` binding and access to `arguments`.
+
+
+
+----
+
 # Forms
 
 - Creating forms using `<form>` and related tags: Forms in HTML are created using the `<form>` element. It serves as a container for various form controls like input fields, checkboxes, and buttons.
