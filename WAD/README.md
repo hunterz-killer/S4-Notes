@@ -1,3 +1,88 @@
+# HTML Media
+
+- Embedding videos and audio using `<video>` and `<audio>` tags: HTML provides the <video> and <audio> tags to embed videos and audio files in web pages. These tags allow specifying the source file, dimensions, controls, and other attributes to customize the media playback.
+- Controlling media playback with JavaScript: JavaScript can be used to control media playback. By accessing the media element through the DOM, JavaScript can manipulate various properties and methods to play, pause, seek, adjust volume, and handle events related to media playback.
+
+## What HTML tags can be used to embed videos and audio files?
+
+To embed videos, the `<video>` tag is used. For audio files, the `<audio>` tag is employed.
+
+### Video Tag Example:
+
+```html
+<video src="video.mp4" controls></video>
+```
+
+### Audio Tag Example:
+
+```html
+<audio src="audio.mp3" controls></audio>
+```
+
+## How can you customize media playback using the <video> and <audio> tags?
+
+Both `<video>` and `<audio>` elements have attributes that allow customization:
+
+- `src`: Specifies the source URL of the media file.
+- `controls`: Adds playback controls (play, pause, volume, etc.).
+- `autoplay`: Starts playback automatically when the page loads.
+- `loop`: Loops the media when it reaches the end.
+- `preload`: Specifies if and how the media should be loaded when the page loads.
+
+## What role does JavaScript play in controlling media playback?
+
+JavaScript allows for dynamic manipulation of media elements. It can be used to:
+
+- **Start and stop playback**
+- **Set the current time of playback**
+- **Adjust volume**
+- **Toggle mute**
+- **Handle events like play, pause, ended, etc.**
+
+## How can JavaScript manipulate media elements to control playback?
+
+### Example: Playing and Pausing a Video
+
+```javascript
+let video = document.getElementById('myVideo');
+
+function playVideo() {
+  video.play(); // Starts playback
+}
+
+function pauseVideo() {
+  video.pause(); // Pauses playback
+}
+```
+
+### Example: Controlling Volume
+
+```javascript
+let audio = document.getElementById('myAudio');
+
+function increaseVolume() {
+  audio.volume += 0.1; // Increases volume by 10%
+}
+
+function decreaseVolume() {
+  audio.volume -= 0.1; // Decreases volume by 10%
+}
+```
+
+## What are some common actions that JavaScript can perform on media elements?
+1. **Play/Pause**: Toggle between playing and pausing media.
+2. **Seek**: Set the current playback position (time).
+3. **Volume Control**: Adjust the volume level.
+4. **Mute/Unmute**: Toggle audio on/off.
+5. **Full Screen Mode**: Enable/disable full-screen mode (for videos).
+6. **Change Source**: Dynamically change the media source.
+7. **Track Progress**: Display and update progress bars.
+8. **Handle Events**: Respond to events like play, pause, ended, etc.
+
+JavaScript allows for extensive control over media elements, enabling developers to create custom media players and interactive multimedia experiences on web pages.
+
+--- 
+
 # HTML Graphics
 
 - Introduction to HTML graphics: HTML provides various ways to incorporate graphics into web pages, allowing for visual elements and interactivity.
