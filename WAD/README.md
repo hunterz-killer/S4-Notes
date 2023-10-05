@@ -1,3 +1,53 @@
+# CSS Border Images, Rounded Corners
+
+- CSS Border Images:
+   - The border-image property allows you to use an image as a border for an element instead of a solid color.
+   - You can specify the source image, slice areas, and border widths to create unique border designs.
+   - This property is useful for creating decorative borders that can scale with the size of the element.
+- Rounded Corners:
+  - The border-radius property allows you to round the corners of an element's border.
+  - By specifying a pixel value or percentage, you can control the degree of rounding for each corner.
+  - This property is commonly used to create visually appealing and softer designs.
+
+## What CSS property allows you to use an image as a border instead of a solid color?
+The CSS property that allows you to use an image as a border instead of a solid color is `border-image`. This property enables you to specify an image to be used for the border of an element.
+
+## How can you create unique border designs using the `border-image` property?
+The `border-image` property in CSS allows you to create unique border designs by using an image to define the border pattern. Here's a basic example of how to use it:
+
+```css
+.element {
+  border-image: url('border-image.png') 27 repeat;
+  border-width: 27px;
+}
+```
+
+In this example, `url('border-image.png')` specifies the path to the image to be used for the border. `27` sets the width of the border. `repeat` instructs the browser to repeat the image if necessary to cover the entire border.
+
+## What is the purpose of the `border-radius` property in CSS?
+The `border-radius` property in CSS is used to round the corners of an element. It allows you to create rounded corners, giving a softer and more visually appealing look to elements like buttons, boxes, and images.
+
+## How can you control the degree of rounding for each corner of an element's border?
+You can control the degree of rounding for each corner of an element's border by using the `border-radius` property with specific values. The property can take up to four values, representing the radii of the top-left, top-right, bottom-right, and bottom-left corners respectively.
+
+For example:
+
+```css
+.element {
+  border-radius: 10px 20px 30px 40px;
+}
+```
+
+In this example, the top-left corner will have a radius of `10px`, top-right will have `20px`, bottom-right will have `30px`, and bottom-left will have `40px`.
+
+## Why is the border-radius property commonly used in web design?
+The `border-radius` property is commonly used in web design to create visually appealing and modern-looking user interfaces. Rounded corners provide a softer and more aesthetically pleasing appearance, which can enhance the overall design of a website or application. It is especially useful for creating buttons, cards, and containers that have a clean and polished look.
+
+
+
+---
+
+
 # Controllers and User Inputs
 
 - Controllers in AngularJS are essential for managing the logic and behavior of different components in an application.
