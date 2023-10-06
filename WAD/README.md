@@ -2,36 +2,24 @@
 
 
 
-1. [Two-Way Data Binding](#two-way-data-binding)
-1. [Loops and Iteration](#loops-and-iteration)
-1. [Drawing 2D Shapes Handling Events](#drawing-2d-shapes-handling-events)
-
-
-
-
-
-
-
-
-
-
-
-
 ## Table of Contents
 
 
-**HTML:**
-1. [HTML5 Tags](#html5-tags)
+**HTML5:**
+
 1. [HTML5 Basics and Basic Tags](#html5-basics-and-basic-tags)
+1. [HTML5 Tags](#html5-tags)
 1. [HTML Media](#html-media)
 1. [HTML Graphics](#html-graphics)
 1. [HTML APIs](#html-apis)
 1. [Forms](#forms)
 1. [Tables](#tables)
+1. [Drawing 2D Shapes Handling Events](#drawing-2d-shapes-handling-events)
 
 **CSS:**
-1. [List Links Tables](#list-links-tables)
+
 1. [Styling Text Fonts](#styling-text-fonts)
+1. [List Links Tables](#list-links-tables)
 1. [CSS Overflow Float Inline Blocks](#css-overflow-float-inline-blocks)
 1. [CSS Border Images Rounded Corners](#css-border-images-rounded-corners)
 1. [Background Borders Margin Box Model](#background-borders-margin-box-model)
@@ -40,7 +28,7 @@
 **JavaScript:**
 1. [Introduction to JavaScript](#introduction-to-javascript)
 1. [Variables Control Statements Loops](#variables-control-statements-loops)
-2. 1. [Arrays String Handling](#arrays-string-handling)
+1. [Arrays String Handling](#arrays-string-handling)
 1. [Functions in JavaScript](#functions-in-javascript)
 1. [Inputting and Outputting from Form Elements to JavaScript](#inputting-and-outputting-from-form-elements-to-javascript)
 1. [DOM Concept Creating HTML Elements using JavaScript](#dom-concept-creating-html-elements-using-javascript) 
@@ -49,26 +37,29 @@
    
 **AngularJS:**
 1. [Introduction to Single-Page Applications](#introduction-to-single-page-applications)
-1. [Controllers and User Inputs](#controllers-and-user-inputs)
-1. [Client-Side Routing and Accessing URL Data](#client-side-routing-and-accessing-url-data)
 1. [Overview of AngularJS as a Framework for Building SPAs](#overview-of-angularjs-as-a-framework-for-building-spas)
 1. [MVC in AngularJS](#mvc-in-angularjs)   
-
+1. [Two-Way Data Binding](#two-way-data-binding)
+1. [Loops and Iteration](#loops-and-iteration)
+1. [Controllers and User Inputs](#controllers-and-user-inputs)
+1. [Client-Side Routing and Accessing URL Data](#client-side-routing-and-accessing-url-data)
 
 **PHP:**
+1. [Introduction to PHP Variables Control Statements Loops](#introduction-to-php-variables-control-statements-loops) 
 1. [Arrays and String Handling in PHP](#arrays-and-string-handling-in-php)
+1. [PHP Forms and Global Variables](#php-forms-and-global-variables)
+1. [Regular Expressions and Pattern Matching](#regular-expressions-and-pattern-matching)
+1. [Database Programming Inputting and Outputting Data from MySQL using PHP](#database-programming-inputting-and-outputting-data-from-mysql-using-php)
 1. [State Management in Web Applications Cookies](#state-management-in-web-applications-cookies)
 1. [Server-Side Scripting and Difference with Client-Side Scripting](#server-side-scripting-and-difference-with-client-side-scripting)
-1. [Regular Expressions and Pattern Matching](#regular-expressions-and-pattern-matching)
-1. [PHP Forms and Global Variables](#php-forms-and-global-variables)
-1. [Introduction to PHP Variables Control Statements Loops](#introduction-to-php-variables-control-statements-loops) 
-1. [Database Programming Inputting and Outputting Data from MySQL using PHP](#database-programming-inputting-and-outputting-data-from-mysql-using-php)
+
 
 **XML:**
-1. [XML Validation DTD and XSD](#xml-validation-dtd-and-xsd)
-1. [Attribute Types in XML](#attribute-types-in-xml)
 1. [Introduction to XML](#introduction-to-xml)
+1. [Attribute Types in XML](#attribute-types-in-xml)
 1. [XML Tags Elements and Attributes](#xml-tags-elements-and-attributes)
+1. [XML Validation DTD and XSD](#xml-validation-dtd-and-xsd)
+
 
 <br>
 
