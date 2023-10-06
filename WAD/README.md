@@ -1,10 +1,5 @@
 # Web Application Development - Question Bank
 
-<a href="https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl" target="_blank"><img alt="Don't Click Me" src="https://img.shields.io/badge/Don't%20Click%20Me-red"></a>
-
-
-
-
 
 ## Table of Contents
 
@@ -149,7 +144,7 @@ Benefits of Validating XML Documents
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl){:target="_blank"} [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -335,7 +330,7 @@ These constructs provide different ways to control the flow of execution in Java
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -399,7 +394,7 @@ Two-way data binding simplifies the development of interactive user interfaces b
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -481,7 +476,7 @@ These additional tags provide extra structure and styling options for tables, al
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -585,7 +580,7 @@ By utilizing these font properties and text styling techniques, web designers an
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -652,7 +647,7 @@ By combining reading documentation, practicing with examples, and experimenting 
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -709,7 +704,7 @@ Server-side scripting enables dynamic web applications by allowing the server to
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -773,7 +768,7 @@ These functions provide a comprehensive set of tools for working with regular ex
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -837,7 +832,7 @@ Pseudo-classes and pseudo-elements are powerful tools in CSS that allow for more
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -902,7 +897,7 @@ Overall, handling form submissions in PHP is a crucial part of web development, 
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -973,7 +968,7 @@ The separation of concerns in AngularJS leads to better code organization and ma
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1039,7 +1034,7 @@ Using loops and iteration, along with the `ng-repeat` directive in AngularJS, ca
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1110,7 +1105,7 @@ By applying these CSS properties, developers can create visually appealing and o
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1186,7 +1181,7 @@ jQuery enhances the user experience on interactive web pages in several ways:
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1264,7 +1259,7 @@ XML enables seamless integration and interoperability between web applications b
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1317,7 +1312,7 @@ SPAs can implement Service Workers, a feature of modern web browsers, to provide
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1411,7 +1406,7 @@ Overall, control statements and loops are foundational concepts in PHP programmi
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1497,7 +1492,7 @@ A text editor or IDE is necessary for writing JavaScript code because it provide
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1568,7 +1563,7 @@ AJAX enables specific parts of a web page (like a data grid, a chat window, or a
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1653,7 +1648,7 @@ JavaScript can dynamically modify the DOM by changing the properties, content, o
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1718,7 +1713,7 @@ The `<nav>` tag is used to define a section of navigation links. It signals to b
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1792,7 +1787,7 @@ In this example, the text "Click here to visit Example" becomes a clickable link
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1883,7 +1878,7 @@ JavaScript allows for extensive control over media elements, enabling developers
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -1964,7 +1959,7 @@ Resolution independence refers to the ability of an image or graphic to be scale
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2006,7 +2001,7 @@ By leveraging local storage, developers can create seamless and engaging web app
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2083,7 +2078,7 @@ Arrow functions are often used for shorter, more concise function expressions, w
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2146,7 +2141,7 @@ Good error handling is crucial for creating user-friendly and accessible web for
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2199,7 +2194,7 @@ Understanding event propagation is important for handling events effectively. It
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2280,7 +2275,7 @@ JavaScript, combined with HTML and CSS, forms the foundation for building modern
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2350,7 +2345,7 @@ Once data is retrieved from a MySQL database, it can be processed and utilized i
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2393,7 +2388,7 @@ Inline-block elements are useful for creating layouts because they combine featu
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2448,7 +2443,7 @@ The `border-radius` property is commonly used in web design to create visually a
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2511,7 +2506,7 @@ This way, when the button is clicked, `myFunction` in the controller will be exe
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2560,7 +2555,7 @@ URL parameters are typically used for essential route-specific data, while query
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2616,7 +2611,7 @@ The `box-sizing` property in CSS allows you to control how the total width and h
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2681,7 +2676,7 @@ By defining data types and restrictions, XML ensures the consistency and validit
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2773,7 +2768,7 @@ Overall, a strong understanding of arrays and string handling provides a solid f
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2820,7 +2815,7 @@ The AngularJS community is known for being active and supportive. They provide:
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
@@ -2919,7 +2914,7 @@ These functions empower developers to efficiently manipulate and analyze string 
 
 <br>
 
-[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)]([https://example.com](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
+[![Don't Click Me](https://img.shields.io/badge/Don't%20Click%20Me-red)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl) [![Go to Top](https://img.shields.io/badge/Go%20to%20Top-blue)](#table-of-contents)
 
 ----
 
