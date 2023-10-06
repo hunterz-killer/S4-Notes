@@ -1304,7 +1304,13 @@ SPAs simplify development in several ways:
 
 SPAs can implement Service Workers, a feature of modern web browsers, to provide offline capabilities. Service Workers allow web applications to cache resources and respond to network requests, even when the device is offline. This enables SPAs to continue functioning, providing a limited but functional experience to users in offline scenarios.
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Introduction to PHP, Variables, Control Statements, Loops
 
@@ -1392,7 +1398,13 @@ Control statements (like `if`, `else`, `switch`) and loops (like `for`, `while`,
 
 Overall, control statements and loops are foundational concepts in PHP programming, enabling developers to write dynamic, efficient, and scalable code for web applications and websites.
 
------
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 # Introduction to JavaScript
 
@@ -1472,7 +1484,13 @@ JavaScript code can be added to an HTML file in three main ways:
 A text editor or IDE is necessary for writing JavaScript code because it provides essential features such as syntax highlighting, code formatting, auto-completion, debugging tools, and version control integration. These features enhance productivity, improve code quality, and help developers identify and fix errors efficiently. Additionally, text editors and IDEs provide a comfortable environment for writing and managing code, making the development process smoother and more organized.
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Introduction to AJAX
 
@@ -1537,7 +1555,13 @@ if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
 AJAX enables specific parts of a web page (like a data grid, a chat window, or a form submission) to be updated without reloading the entire page. This enhances user experiences by providing a more fluid and dynamic interface. For example, in a chat application, new messages can be sent and received without refreshing the entire chat window, creating a seamless interaction.
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Inputting and Outputting from Form Elements to JavaScript
 
@@ -1616,8 +1640,13 @@ JavaScript is used to interact with the DOM and retrieve user input from form el
 
 JavaScript can dynamically modify the DOM by changing the properties, content, or structure of HTML elements. This allows for real-time updates to be displayed to the user without requiring a page refresh. By updating specific elements or creating new ones, JavaScript ensures that the user sees the relevant information or feedback based on their input.
 
------
+<br>
 
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 # HTML5 Tags
 
 **Semantic HTML5 tags:** 
@@ -1675,7 +1704,13 @@ The `<nav>` tag is used to define a section of navigation links. It signals to b
 3. **Ensure Keyboard Accessibility**: Ensure that all interactive elements (links, buttons, forms, etc.) can be accessed and operated using a keyboard alone. Use the `tabindex` attribute if necessary.
 
 
---- 
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br> 
 
 # HTML5 Basics and Basic Tags
 
@@ -1743,7 +1778,13 @@ Example of a hyperlink:
 In this example, the text "Click here to visit Example" becomes a clickable link that, when clicked, will take the user to the website at `https://www.example.com`.
 
 
----
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 # HTML Media
 
@@ -1828,7 +1869,13 @@ function decreaseVolume() {
 
 JavaScript allows for extensive control over media elements, enabling developers to create custom media players and interactive multimedia experiences on web pages.
 
---- 
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br> 
 
 # HTML Graphics
 
@@ -1903,7 +1950,13 @@ The `<img>` element is used to display images on a web page. It references an ex
 
 Resolution independence refers to the ability of an image or graphic to be scaled to different sizes without losing quality. SVG graphics are resolution independent because they are defined using mathematical descriptions of shapes, rather than a fixed grid of pixels. This allows SVG images to be scaled to any size without pixelation or loss of detail, making them well-suited for responsive web design and high-DPI (Retina) displays.
 
----
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 # HTML APIs
 
@@ -1939,7 +1992,13 @@ Developers can utilize the Local Storage API to provide a personalized experienc
 By leveraging local storage, developers can create seamless and engaging web applications that remember user preferences, reduce the need for repetitive data input, and enhance overall user satisfaction.
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Functions in JavaScript
 
@@ -2010,7 +2069,13 @@ Arrow functions are often used for shorter, more concise function expressions, w
 
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Forms
 
@@ -2067,7 +2132,13 @@ Error handling in form validation involves providing feedback to users when they
 
 Good error handling is crucial for creating user-friendly and accessible web forms. It ensures that users can interact with the form smoothly and with confidence.
 
----
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 # Drawing 2D Shapes, Handling Events
 
@@ -2114,7 +2185,13 @@ Understanding event propagation is important for handling events effectively. It
 
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 
 # DOM Concept, Creating HTML Elements using JavaScript
@@ -2189,7 +2266,13 @@ JavaScript plays a crucial role in creating interactive and responsive web pages
 
 JavaScript, combined with HTML and CSS, forms the foundation for building modern, interactive, and user-friendly web applications. It allows for a seamless user experience by enabling dynamic content updates, interactivity, and responsiveness to user actions.
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Database Programming: Inputting and Outputting Data from MySQL using PHP
 
@@ -2253,7 +2336,13 @@ while ($row = mysqli_fetch_assoc($result)) {
 ## How can the retrieved data from a MySQL database be processed and utilized in PHP?
 Once data is retrieved from a MySQL database, it can be processed and utilized in PHP for various purposes, such as displaying information on a webpage, performing calculations, generating reports, or making decisions based on the data. The retrieved data is typically stored in variables and can be used in PHP code to dynamically generate content or perform further operations.
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # CSS Overflow, Float, Inline Blocks
 
@@ -2290,7 +2379,13 @@ Difference Between Inline-Block and Regular Inline Elements
 Inline-block elements are useful for creating layouts because they combine features of both inline and block-level elements. They allow elements to sit next to each other horizontally, like inline elements, while also allowing you to set specific dimensions, margins, and padding, like block-level elements. This makes them versatile for creating complex, flexible layouts without resorting to more complex layout techniques like floats or flexbox.
 
 
----
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 # CSS Border Images, Rounded Corners
 
@@ -2339,7 +2434,13 @@ The `border-radius` property is commonly used in web design to create visually a
 
 
 
----
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 
 # Controllers and User Inputs
@@ -2396,7 +2497,13 @@ This way, when the button is clicked, `myFunction` in the controller will be exe
 
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Client-Side Routing and Accessing URL Data
 
@@ -2439,7 +2546,13 @@ URL parameters are typically used for essential route-specific data, while query
 
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Background, Borders, Margin, Box Model
 
@@ -2489,7 +2602,13 @@ There are several CSS properties used to style borders:
 The `box-sizing` property in CSS allows you to control how the total width and height of an element is calculated. By default, the width and height properties only include the content of the element, excluding padding and border. However, setting `box-sizing: border-box;` includes padding and border in the element's total width and height. This can be useful for achieving more predictable layouts.
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Attribute Types in XML
 
@@ -2548,7 +2667,13 @@ By defining data types and restrictions, XML ensures the consistency and validit
 
 
 
------
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
 # Arrays, String Handling
 
@@ -2601,7 +2726,13 @@ $concatenatedString = $string1 . ", " . $string2; // Result: "Hello, World"
 
 
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 
 # Overview of AngularJS as a Framework for Building SPAs
@@ -2642,7 +2773,13 @@ The AngularJS community is known for being active and supportive. They provide:
 - **Open-source Ecosystem**: The AngularJS ecosystem includes a wide range of open-source libraries, tools, and extensions that can be used to enhance and streamline development.
 - **Conferences and Meetups**: The community organizes conferences, meetups, and workshops around the world, providing opportunities for developers to network, learn, and stay updated with the latest trends in AngularJS and web development.
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # Arrays and String Handling in PHP
 
@@ -2735,4 +2872,11 @@ PHP provides functions for various string operations:
 
 These functions empower developers to efficiently manipulate and analyze string data in PHP.
 
+<br>
+
+[Back to Top](#table-of-contents)
+
+----
+
+<br>
 
