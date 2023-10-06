@@ -1,3 +1,177 @@
+# Tables
+
+- Creating Tables in HTML
+
+    - Tables in HTML are created using tags such as `<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>`, `<th>`, and `<td>`. These tags define the structure and content of the table.
+
+        - `<table>`: Defines the table itself.
+        - `<thead>`: Represents the table header.
+        - `<tbody>`: Represents the table body.
+        - `<tfoot>`: Specifies the table footer.
+        - `<tr>`: Used to create table rows.
+        - `<th>`: Defines table headers.
+        - `<td>`: Represents data cells.
+
+- Table Structure
+
+    - The `<thead>` tag defines the table header.
+    - The `<tbody>` tag represents the table body.
+    - The `<tfoot>` tag specifies the table footer.
+    - The `<tr>` tag is used to create table rows.
+    - `<th>` and `<td>` are used for table headers and data cells, respectively.
+
+- Styling Tables using CSS
+
+    - CSS allows for the customization of table appearance. This includes borders, backgrounds, fonts, and other visual aspects. Specific selectors and properties can be applied to enhance the table's style.
+    - For example, you can use CSS to apply styles to elements like `<table>`, `<th>`, `<td>`, etc.
+
+## Define the HTML tags used to create tables.
+
+To create tables in HTML, you use the following tags:
+
+- `<table>`: Defines the entire table.
+- `<thead>`: Contains header information (typically column labels).
+- `<tbody>`: Contains the main content of the table.
+- `<tfoot>`: Contains footer information (e.g., summaries, totals).
+- `<tr>`: Represents a table row.
+- `<th>`: Defines a header cell (usually bold and centered).
+- `<td>`: Defines a standard data cell.
+
+## What is the purpose of the `<thead>` tag in a table structure?
+
+The `<thead>` tag is used to group the header content in a table. It's typically the first section within a `<table>`. This is where you place column labels or headings that provide context for the data in the table.
+
+## Explain the difference between `<th>` and `<td>` tags in a table.
+
+Difference Between `<th>` and `<td>` Tags
+
+- `<th>` (Table Header Cell): Used to define header cells. They are typically bold and centered by default. `<th>` elements are used to label the columns or rows in a table.
+
+- `<td>` (Table Data Cell): Represents standard data cells in the table. They contain the actual content or data. `<td>` elements are used for individual pieces of information in a table.
+
+## How can CSS be used to style tables?
+
+CSS can be used to style tables by applying various properties. Some common properties include:
+
+- `border`: Controls the border of the table.
+- `background-color`: Sets the background color of cells.
+- `color`: Sets the text color.
+- `font-family` and `font-size`: Define the font properties.
+- `padding` and `margin`: Adjust the spacing around cells and the table itself.
+
+## Name three table-related tags other than `<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>`, `<th>`, and `<td>`.
+
+Aside from the basic table elements, there are a few other tags related to tables:
+
+1. `<caption>`: Used to provide a title or caption for a table. It's placed immediately after the `<table>` tag.
+
+2. `<colgroup>`: Allows you to group together a set of columns and apply styling or other attributes to them collectively.
+
+3. `<col>`: Specifies column properties for columns grouped within a `<colgroup>`.
+
+These additional tags provide extra structure and styling options for tables, allowing for more fine-grained control over their appearance and behavior.
+
+
+----
+
+# Styling Text, Fonts
+
+- Controlling font properties:
+    - This involves specifying the font family, size, and weight of text.
+    - The font-family property determines the typeface, while `font-size` controls the size, and `font-weight` adjusts the thickness of the characters.
+- Applying text styling:
+    - Text styling includes modifying the color, alignment, and decoration of text.
+    - The color property changes the text color, `text-align` adjusts the alignment, and `text-decoration` adds effects like underline or strikethrough.
+- Working with web fonts:
+    - Web fonts allow the use of custom fonts on websites.
+    - They can be imported using `@font-face` rule or by including a link to an external font file in the HTML document.
+
+## What are some font properties that can be controlled in CSS?
+
+CSS provides several font-related properties that allow you to control the appearance of text:
+
+1. **`font-family`**: Specifies the font family or font stack to be used for text.
+
+2. **`font-size`**: Sets the size of the text characters.
+
+3. **`font-style`**: Controls the italic or oblique style of text.
+
+4. **`font-weight`**: Determines the thickness or boldness of text.
+
+5. **`font-variant`**: Allows you to enable small caps for text characters.
+
+6. **`line-height`**: Sets the height of lines of text within an element.
+
+7. **`letter-spacing`**: Adjusts the spacing between characters.
+
+8. **`text-align`**: Specifies the horizontal alignment of text within an element.
+
+9. **`text-transform`**: Modifies the capitalization of text (e.g., uppercase, lowercase, capitalize).
+
+## How can text styling be applied to modify the appearance of text?
+
+Text styling can be applied using CSS properties to modify the appearance of text. For example, you can set the `color` property to define the text color, use `font-family` to choose a specific font, and adjust the `font-size` to control the text size.
+
+```css
+/* Example text styling */
+p {
+  color: #333; /* Text color */
+  font-family: Arial, sans-serif; /* Font family */
+  font-size: 16px; /* Font size */
+}
+```
+
+## What is the purpose of the `font-weight` property in CSS?
+
+The `font-weight` property in CSS controls the thickness or boldness of text characters. It accepts values such as `normal`, `bold`, `bolder`, `lighter`, or numeric values like `100`, `200`, `300`, etc. It is used to change the visual weight of the text, making it appear lighter or bolder.
+
+```css
+/* Example of font-weight property */
+h1 {
+  font-weight: bold;
+}
+```
+
+## Explain how the `text-decoration` property can be used to add effects to text.
+
+The `text-decoration` property in CSS is used to add effects to text. Common values for `text-decoration` include:
+
+- `none`: No text decoration (default).
+- `underline`: Underlines the text.
+- `overline`: Adds a line above the text.
+- `line-through`: Strikes through the text.
+- `blink`: Makes the text blink (rarely supported).
+
+```css
+/* Example of text-decoration property */
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+```
+
+## How can web fonts be incorporated into a website using CSS?
+
+Incorporating Web Fonts with CSS
+
+Web fonts can be incorporated into a website using CSS by specifying the desired font family using `font-family`. You can use the `@font-face` rule to define custom fonts and provide the font files (e.g., .woff, .woff2) using `src` declarations.
+
+```css
+/* Example of using web fonts */
+@font-face {
+  font-family: 'CustomFont';
+  src: url('custom-font.woff2') format('woff2'),
+       url('custom-font.woff') format('woff');
+}
+
+p {
+  font-family: 'CustomFont', sans-serif; /* Use the custom font or fallback to sans-serif */
+}
+```
+
+By utilizing these font properties and text styling techniques, web designers and developers can control the appearance of text on websites and create visually appealing and readable content.
+
+----
+
 # State Management in Web Applications: Cookies
 
 - State management is crucial in web applications to maintain user data and session information.
