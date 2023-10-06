@@ -18,6 +18,7 @@
 **JavaScript Fundamentals:**
 1. [Introduction to JavaScript](#introduction-to-javascript)
 1. [Functions in JavaScript](#functions-in-javascript)
+1. [jQuery](#jquery)
 1. [DOM Concept, Creating HTML Elements using JavaScript](#dom-concept-creating-html-elements-using-javascript)
 1. [Drawing 2D Shapes, Handling Events](#drawing-2d-shapes-handling-events)
 
@@ -32,12 +33,15 @@
 1. [MVC in AngularJS](#mvc-in-angularjs)
 1. [Controllers and User Inputs](#controllers-and-user-inputs)
 1. [Client-Side Routing and Accessing URL Data](#client-side-routing-and-accessing-url-data)
+1. [Two-Way Data Binding](#two-way-data-binding)
 
 **PHP and Server-Side Scripting:**
 1. [Introduction to PHP, Variables, Control Statements, Loops](#introduction-to-php-variables-control-statements-loops)
 1. [PHP Forms and Global Variables](#php-forms-and-global-variables)
 1. [Database Programming: Inputting and Outputting Data from MySQL using PHP](#database-programming-inputting-and-outputting-data-from-mysql-using-php)
+1. [Regular Expressions and Pattern Matching](#regular-expressions-and-pattern-matching)
 
+   
 **XML:**
 1. [XML Validation: DTD and XSD](#xml-validation-dtd-and-xsd)
 1. [XML Tags, Elements, and Attributes](#xml-tags-elements-and-attributes)
@@ -45,11 +49,11 @@
 1. [Attribute Types in XML](#attribute-types-in-xml)
 
 **Advanced Topics:**
-1. [Two-Way Data Binding](#two-way-data-binding)
-1. [Regular Expressions and Pattern Matching](#regular-expressions-and-pattern-matching)
+
+
 1. [Pseudo-classes, Pseudo-elements](#pseudo-classes-pseudo-elements)
 1. [List, Links, Tables](#list-links-tables)
-1. [jQuery](#jquery)
+
 1. [Arrays, String Handling](#arrays-string-handling)
 
 
