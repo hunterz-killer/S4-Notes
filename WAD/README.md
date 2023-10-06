@@ -3,11 +3,7 @@
 
 ## Table of Contents
 
-**XML:**
-1. [XML Validation: DTD and XSD](#xml-validation-dtd-and-xsd)
-1. [XML Tags, Elements, and Attributes](#xml-tags-elements-and-attributes)
-1. [Introduction to XML](#introduction-to-xml)
-1. [Attribute Types in XML](#attribute-types-in-xml)
+
 
 **HTML Basics:**
 1. [HTML5 Basics and Basic Tags](#html5-basics-and-basic-tags)
@@ -33,16 +29,22 @@
 1. [Inputting and Outputting from Form Elements to JavaScript](#inputting-and-outputting-from-form-elements-to-javascript)
 1. [Forms](#forms)
 
-**PHP and Server-Side Scripting:**
-1. [Introduction to PHP, Variables, Control Statements, Loops](#introduction-to-php-variables-control-statements-loops)
-1. [PHP Forms and Global Variables](#php-forms-and-global-variables)
-1. [Database Programming: Inputting and Outputting Data from MySQL using PHP](#database-programming-inputting-and-outputting-data-from-mysql-using-php)
-
 **Client-Side Scripting:**
 1. [State Management in Web Applications: Cookies](#state-management-in-web-applications-cookies)
 1. [MVC in AngularJS](#mvc-in-angularjs)
 1. [Controllers and User Inputs](#controllers-and-user-inputs)
 1. [Client-Side Routing and Accessing URL Data](#client-side-routing-and-accessing-url-data)
+
+**PHP and Server-Side Scripting:**
+1. [Introduction to PHP, Variables, Control Statements, Loops](#introduction-to-php-variables-control-statements-loops)
+1. [PHP Forms and Global Variables](#php-forms-and-global-variables)
+1. [Database Programming: Inputting and Outputting Data from MySQL using PHP](#database-programming-inputting-and-outputting-data-from-mysql-using-php)
+
+**XML:**
+1. [XML Validation: DTD and XSD](#xml-validation-dtd-and-xsd)
+1. [XML Tags, Elements, and Attributes](#xml-tags-elements-and-attributes)
+1. [Introduction to XML](#introduction-to-xml)
+1. [Attribute Types in XML](#attribute-types-in-xml)
 
 **Advanced Topics:**
 1. [Two-Way Data Binding](#two-way-data-binding)
