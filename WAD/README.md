@@ -3,8 +3,6 @@
 
 ## Table of Contents
 
-
-
 **HTML Basics:**
 1. [HTML5 Basics and Basic Tags](#html5-basics-and-basic-tags)
 1. [HTML5 Tags](#html5-tags)
@@ -138,7 +136,13 @@ Benefits of Validating XML Documents
 
 5. **Security**: Protects against malicious or erroneous data by enforcing a specified structure and content format.
 
+<br>
+
+[Back to Top](#table-of-contents)
+
 ----
+
+<br>
 
 # XML Tags, Elements, and Attributes
 
