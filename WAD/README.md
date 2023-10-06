@@ -1908,7 +1908,7 @@ JavaScript allows for extensive control over media elements, enabling developers
 </svg>
 ```
 
-3. **<canvas> Element**: This element provides a drawing surface for JavaScript. It allows for dynamic rendering of graphics using JavaScript code.
+3. **`<canvas>` Element**: This element provides a drawing surface for JavaScript. It allows for dynamic rendering of graphics using JavaScript code.
 
 ```html
 <canvas id="myCanvas" width="200" height="100"></canvas>
