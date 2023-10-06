@@ -1647,6 +1647,7 @@ JavaScript can dynamically modify the DOM by changing the properties, content, o
 ----
 
 <br>
+
 # HTML5 Tags
 
 **Semantic HTML5 tags:** 
