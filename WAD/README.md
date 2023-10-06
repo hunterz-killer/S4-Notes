@@ -1894,13 +1894,13 @@ JavaScript allows for extensive control over media elements, enabling developers
 
 ## What are the different ways to incorporate graphics into web pages using HTML?
 
-1. **`<img>` Element**: This element is used to embed images into a web page. It references an external image file using the `src` attribute.
+1. ** The`<img>` Element**: This element is used to embed images into a web page. It references an external image file using the `src` attribute.
 
 ```html
 <img src="image.jpg" alt="Description">
 ```
 
-2. **`<svg>` Element**: SVG (Scalable Vector Graphics) is a vector image format that can be included directly in HTML. It allows for the creation of graphics using XML-based code.
+2. **The `<svg>` Element**: SVG (Scalable Vector Graphics) is a vector image format that can be included directly in HTML. It allows for the creation of graphics using XML-based code.
 
 ```html
 <svg width="100" height="100">
@@ -1908,7 +1908,7 @@ JavaScript allows for extensive control over media elements, enabling developers
 </svg>
 ```
 
-3. **`<canvas>` Element**: This element provides a drawing surface for JavaScript. It allows for dynamic rendering of graphics using JavaScript code.
+3. **The `<canvas>` Element**: This element provides a drawing surface for JavaScript. It allows for dynamic rendering of graphics using JavaScript code.
 
 ```html
 <canvas id="myCanvas" width="200" height="100"></canvas>
