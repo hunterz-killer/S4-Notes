@@ -1796,7 +1796,7 @@ In this example, the text "Click here to visit Example" becomes a clickable link
 
 # HTML Media
 
-- Embedding videos and audio using `<video>` and `<audio>` tags: HTML provides the <video> and <audio> tags to embed videos and audio files in web pages. These tags allow specifying the source file, dimensions, controls, and other attributes to customize the media playback.
+- Embedding videos and audio using `<video>` and `<audio>` tags: HTML provides the `<video>` and `<audio>` tags to embed videos and audio files in web pages. These tags allow specifying the source file, dimensions, controls, and other attributes to customize the media playback.
 - Controlling media playback with JavaScript: JavaScript can be used to control media playback. By accessing the media element through the DOM, JavaScript can manipulate various properties and methods to play, pause, seek, adjust volume, and handle events related to media playback.
 
 ## What HTML tags can be used to embed videos and audio files?
@@ -1815,7 +1815,7 @@ To embed videos, the `<video>` tag is used. For audio files, the `<audio>` tag i
 <audio src="audio.mp3" controls></audio>
 ```
 
-## How can you customize media playback using the <video> and <audio> tags?
+## How can you customize media playback using the `<video>` and `<audio>` tags?
 
 Both `<video>` and `<audio>` elements have attributes that allow customization:
 
@@ -1894,13 +1894,13 @@ JavaScript allows for extensive control over media elements, enabling developers
 
 ## What are the different ways to incorporate graphics into web pages using HTML?
 
-1. **<img> Element**: This element is used to embed images into a web page. It references an external image file using the `src` attribute.
+1. **`<img>` Element**: This element is used to embed images into a web page. It references an external image file using the `src` attribute.
 
 ```html
 <img src="image.jpg" alt="Description">
 ```
 
-2. **<svg> Element**: SVG (Scalable Vector Graphics) is a vector image format that can be included directly in HTML. It allows for the creation of graphics using XML-based code.
+2. **`<svg>` Element**: SVG (Scalable Vector Graphics) is a vector image format that can be included directly in HTML. It allows for the creation of graphics using XML-based code.
 
 ```html
 <svg width="100" height="100">
@@ -1922,7 +1922,7 @@ JavaScript allows for extensive control over media elements, enabling developers
 }
 ```
 
-## How does the <canvas> element enable drawing and manipulation of graphics on a web page?
+## How does the `<canvas>` element enable drawing and manipulation of graphics on a web page?
 
 The `<canvas>` element provides a 2D drawing surface that can be used with JavaScript to draw graphics, animations, and interactive elements. It allows for dynamic rendering through JavaScript code, making it suitable for games, charts, and other dynamic visualizations.
 
