@@ -35,7 +35,7 @@
 
 #### AD
 
-[![image](https://m.media-amazon.com/images/G/31/INAssociates/2020/AC/Sale_Live.jpg)](https://www.amazon.in/b?node=90130123031&linkCode=ll2&tag=live-offers-21&linkId=89e8ade79de63f6a75cfce39d4db8d83&language=en_IN&ref_=as_li_ss_tl)
+[![image](https://m.media-amazon.com/images/G/31/INAssociates/2020/AC/Sale_Live.jpg)](https://www.amazon.in/events/greatindianfestival/%2526ref%253Dac_in_carousel-SLOT1?&linkCode=ll2&tag=live-offers-21&linkId=452ca16dea39f1a06725d2c45235c9d0&language=en_IN&ref_=as_li_ss_tl)
 
 
   
