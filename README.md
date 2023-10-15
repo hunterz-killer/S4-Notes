@@ -10,6 +10,7 @@
 ## Web Application Development
 
 - [Question Bank with Answers](https://hunterz-killer.github.io/S4-Notes/WAD/)
+- [MCQ](https://quizlet.com/839298275/s4_web-developement-flash-cards/?i=44s59k&x=1jqt)
 
 
 
