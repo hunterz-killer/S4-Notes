@@ -98,3 +98,21 @@
      - Translates user interactions with its associated view into actions for the model.
      - Can create new views based on user demands.
 
+
+## Pros and Cons of SmallTalk MVC:
+
+**Pros:**
+
+- **Effective Division of Responsibilities:** SmallTalk MVC effectively divides responsibilities, ensuring clear advantages.
+- **Isolation of Domain and Presentation Logic:** Allows developers to alter domain models without impacting presentation logic, and vice versa.
+- **Individualized Development Environments:** Developers can work in their preferred view, enhancing productivity.
+- **Diverse User Interface Creation:** Permits the creation of various user interfaces (GUI, command-line, etc.) without affecting application logic.
+
+**Cons:**
+
+- **Increased Abstraction Complexity:** The use of multiple abstractions can lead to increased complexity in the framework.
+- **Necessity for Broad Technological Knowledge:** Developers need to be well-versed in a variety of technologies due to the pattern's complexity.
+
+
+
+
