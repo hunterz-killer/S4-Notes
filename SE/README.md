@@ -59,3 +59,42 @@
 - Listing these consequences explicitly helps you understand and evaluate them
 
 
+## Advantages of Using Patterns with Java:
+
+- **Proven Solutions:** Patterns embody the wisdom and expertise of developers who have effectively applied them in practice.
+- **Reusability:** Patterns offer pre-fabricated solutions that can be customized for various scenarios and requirements.
+- **Expressiveness:** They furnish a shared language of solutions, enabling concise expression of complex solutions.
+- **Built-in Support in J2EE:** Java's J2EE platform includes built-in support for various design patterns, streamlining their implementation.
+
+
+## Design Patterns in Smalltalk MVC:
+
+- **MVC in Smalltalk-80:** Utilizes the Model/View/Controller (MVC) trio of classes for constructing user interfaces in Smalltalk-80.
+- **Components of MVC:**
+  - **Model (M):** Represents the application object.
+  - **View (V):** Deals with the screen presentation.
+  - **Controller (C):** Dictates how the user interface responds to user interactions.
+- **Decoupling for Flexibility and Reuse:** MVC emphasizes decoupling to enhance flexibility and promote reusability in software design.
+
+
+
+## MVC Architectural Design Pattern:
+
+![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/62bc85b1-1281-4153-a1f2-b2aa1606c5d0)
+
+
+- **User Interface Construction:** Used as a framework for building user interfaces.
+- **Components of MVC:**
+   - **Model:**
+     - Contains only pure application data, devoid of presentation logic.
+     - Responds to requests from views and instructions from controllers.
+   - **View:**
+     - Presents the model's data to the user.
+     - Multiple views can be associated with a single model for different purposes.
+     - Must update its presentation if the model's data changes.
+   - **Controller:**
+     - Receives user input and triggers responses by invoking appropriate model operations.
+     - Accepts user input, instructs the model to perform actions accordingly.
+     - Translates user interactions with its associated view into actions for the model.
+     - Can create new views based on user demands.
+
