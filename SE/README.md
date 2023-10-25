@@ -324,4 +324,98 @@ These elements collectively form a comprehensive description of a design pattern
 - The documentation has no influence on the performance of an application.
 - Documenting is not so fun, it‟s sometimes boring to a certain extent.
 
+## Coding Standards:
 
+- Good software development organizations establish well-defined coding standards to maintain a consistent coding style.
+
+- These standards are typically tailored to the organization's needs and the nature of the software they develop.
+
+- Adherence to coding standards is crucial; failure to do so can result in code rejection during reviews.
+
+## Purpose of Having Coding Standards:
+
+1. **Uniform Appearance:**
+   - Ensures that code written by different engineers maintains a consistent and uniform appearance.
+
+2. **Improved Readability and Maintainability:**
+   - Enhances the readability and ease of maintaining the code, while also reducing complexity.
+
+3. **Facilitates Code Reuse and Error Detection:**
+   - Supports code reuse and aids in the early detection of errors.
+
+4. **Promotes Sound Programming Practices:**
+   - Encourages the use of good programming practices, ultimately increasing the efficiency of programmers.
+  
+## Coding Standards:
+
+1. **Limited Use of Global Variables:**
+   - Defines which types of data can be declared as global and which cannot.
+
+2. **Error Return Values and Exception Handling Conventions:**
+   - Specifies that functions encountering an error condition should return a designated value (e.g., 0 or 1) to simplify debugging.
+
+3. **Standard Headers for Modules:**
+   - Encourages using a standardized format for module headers, containing information such as module name, creation date, author, modification history, synopsis, supported functions, and accessed/modified global variables.
+
+4. **Naming Conventions:**
+   - Provides guidelines for naming local variables, global variables, constants, and functions. Emphasizes meaningful and understandable names, proper capitalization, and avoidance of digits in variable names.
+
+5. **Indentation:**
+   - Stresses the importance of proper indentation for code readability, including rules for spacing, commas, nested blocks, and braces placement.
+
+
+## Coding Guidelines:
+
+1. **Avoid Complex Coding Styles:**
+   - Code should be easily understandable to facilitate easier maintenance and debugging. Overly complex code can lead to difficulties in these processes.
+
+2. **Unique Identifiers:**
+   - Each variable should have a descriptive and meaningful name, indicating its purpose. Using an identifier for multiple purposes can cause confusion and hinder future enhancements.
+
+3. **Proper Documentation:**
+   - Code should be well-commented to enhance readability and understanding. Comments should be used to explain the purpose and functionality of statements.
+
+4. **Keep Function Length Manageable:**
+   - Functions should not be excessively long, as lengthy functions are harder to comprehend. Functions should be appropriately sized to perform specific tasks.
+
+5. **Avoid Using GOTO Statement:**
+   - The use of GOTO statements should be minimized, as it can lead to unstructured and hard-to-understand code. It also complicates debugging.
+
+## Advantages of Coding Guidelines:
+
+- **Increased Efficiency and Reduced Development Time:**
+   - Coding guidelines enhance software efficiency and can reduce development time.
+
+- **Early Error Detection:**
+   - Following coding guidelines helps detect errors in the early stages, reducing the additional costs associated with later-stage corrections.
+
+- **Improved Readability and Understandability:**
+   - Well-maintained coding standards lead to more readable and understandable code, thereby reducing its complexity.
+
+- **Reduced Hidden Costs:**
+   - Proper adherence to coding guidelines helps in managing and minimizing hidden costs in software development.
+
+## Coding Inspection:
+
+- **Deployment through Pair Programming:**
+   - Involves two programmers working together, sharing ideas, and jointly tackling the complexities of software development.
+
+- **Continuous Inspection:**
+   - Programmers perform ongoing inspections of each other's code, leading to early and efficient defect identification and removal.
+
+- **Focused Approach:**
+   - Maintains a strong focus on the task at hand, ensuring that the code is thoroughly examined and refined.
+
+## Cleanroom Testing:
+
+- **Formal Approach to Software Development:**
+   - Pioneered by IBM, it emphasizes correctness verification during software development rather than relying solely on testing.
+
+- **Incremental Planning:**
+   - Follows a strategy where each increment is certified and integrated according to a predetermined plan.
+
+- **Division of Software Component:**
+   - The software component is divided into a series of subfunctions.
+
+- **Proving Correctness:**
+   - For each subfunction, exit conditions are defined, and a set of sub-proofs is applied. If the exit condition is met, it confirms the correctness of the design.
