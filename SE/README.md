@@ -191,3 +191,27 @@ These elements collectively form a comprehensive description of a design pattern
 - **Reduce the User's Memory Load:** Minimize the need for users to remember information or learn complex procedures by presenting information and options clearly and accessibly.
 
 - **Make the Interface Consistent:** Ensure that elements, layouts, and interactions are uniform throughout the interface, establishing predictability and familiarity for the user.
+
+
+## User interface design principles
+
+| Principle           | Description                                                                             |
+|---------------------|-----------------------------------------------------------------------------------------|
+| User familiarity    | The interface should use terms and concepts which are drawn from the experience of the people who will make most use of the system. |
+| Consistency         | The interface should be consistent in that, wherever possible, comparable operations should be activated in the same way. |
+| Minimal surprise    | Users should never be surprised by the behavior of a system.                            |
+| Recoverability      | The interface should include mechanisms to allow users to recover from errors.         |
+| User guidance       | The interface should provide meaningful feedback when errors occur and provide context-sensitive user help facilities. |
+| User diversity      | The interface should provide appropriate interaction facilities for different types of system user. |
+
+## Interaction styles
+
+| Interaction Style      | Main Advantage                          | Main Disadvantage                        | Application Examples                                       |
+|-----------------------|----------------------------------------|----------------------------------------|------------------------------------------------------------|
+| Direct Manipulation   | Fast and Intuitive interaction. Easy to learn | May be hard to implement. Only suitable where there is a visual metaphor for tasks and objects | Video games, CAD systems                                   |
+| Menu Selection        | Avoid user error, Little typing required        | Slow for experienced users. Can become complex when there are many menu options          | General purpose systems                                 |
+| Form Fill-in          | Simple data entry, Easy to learn              | Takes up a lot of screen space          | Stock control, Banking systems                            |
+| Command Language      | Powerful and flexible                         | Hard to learn, poor error management   | Operating systems, Library information retrieval systems, data analytics |
+
+
+
