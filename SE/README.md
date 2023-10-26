@@ -57,6 +57,32 @@ During the design phase, the following items are designed and documented:
   - Since change requests are common, even after product release, the design should facilitate smooth adaptations to meet evolving needs.
 
 
+## Important Concepts and Terminologies Associated with Layered Design:
+
+1. **Superordinate and Subordinate Modules:**
+   - **Superordinate Modules:** These are higher-level modules that oversee and coordinate the activities of subordinate modules.
+   - **Subordinate Modules:** These are lower-level modules that perform specific tasks and report to superordinate modules.
+
+2. **Visibility:**
+   - Refers to the degree to which one module can access or interact with another module. It is controlled by the design and encapsulation of the modules.
+
+3. **Control Abstraction:**
+   - The level of control and detail a module has over its subordinate modules. It defines how modules interact to achieve a specific function.
+
+4. **Depth and Width:**
+   - **Depth:** Refers to the number of hierarchical levels in the layered design, indicating the depth of the module hierarchy.
+   - **Width:** Indicates the number of sibling modules at the same level in the hierarchy.
+
+5. **Fan-Out:**
+   - The number of subordinate modules controlled or invoked by a superordinate module. High fan-out can indicate complex control relationships.
+
+6. **Fan-In:**
+   - The number of superordinate modules that reference or use a particular subordinate module. High fan-in suggests reusability and a modular design.
+
+
+
+
+
 ## Design Patterns
 - A design pattern is a general reusable solution to a commonly occurring problem in software design.
 - It is a description for how to solve a problem that can be used in many different situations.
