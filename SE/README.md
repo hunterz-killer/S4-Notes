@@ -79,6 +79,77 @@ During the design phase, the following items are designed and documented:
 6. **Fan-In:**
    - The number of superordinate modules that reference or use a particular subordinate module. High fan-in suggests reusability and a modular design.
 
+## Cohesion and Coupling:
+
+- **Cohesion:**
+   - Cohesion is a measure of the functional strength of a module. It indicates how closely related and focused the tasks performed by a module are. High cohesion means a module performs a single, well-defined function.
+
+- **Coupling:**
+   - Coupling is a measure of the degree of interaction or interdependence between two modules. Low coupling indicates that modules are relatively independent and can be changed or maintained with minimal impact on other modules.
+
+## Functional Independence:
+
+- **Definition:** Functional independence in software design means that a module is capable of performing a single task with minimal interaction with other modules.
+
+- A module that exhibits both high cohesion and low coupling with other modules is considered functionally independent.
+
+## Advantages of Functional Independence:
+
+1. **Better Understandability:**
+   - Functional independence reduces design complexity, making it easier to understand the design document. Clear boundaries between modules simplify comprehension.
+
+2. **Isolation:**
+   - Isolated modules are self-contained and easily understood within the design. This isolation makes it straightforward to locate and address errors or issues.
+
+3. **Scope of Reuse:**
+   - Functionally independent modules are more reusable. They can be readily applied in the development of other applications, promoting efficiency and code reuse.
+
+
+## Cohesion and Its Types:
+
+- **Cohesion:** Cohesion is a measure of the functional strength of a module. It indicates how closely related and focused the tasks performed by a module are. Good cohesion implies that the functions within a module cooperate to achieve a single objective.
+
+- **Types of Cohesion:**
+1. **Functional Cohesion:**
+   - All the functions within the module collaborate to achieve a single, well-defined objective. This is the highest level of cohesion.
+ 
+3. **Sequential Cohesion:**
+4. Functions within the module are organized in a sequence, with the output of one function serving as the input to the next.
+
+5. **Communicational Cohesion:** Functions within the module operate on the same data or share data among themselves.
+
+6. **Procedural Cohesion:** Functions within the module are grouped based on their execution sequence, but they may not necessarily have a single objective.
+
+7. **Temporal Cohesion:** Functions within the module are executed at the same time, although they may have different purposes.
+
+8. **Logical Cohesion:** Functions within the module have a logical relationship but do not necessarily share data or have a single objective.
+
+ 9. **Coincidental Cohesion:** Functions within the module are grouped together by coincidence or convenience rather than any meaningful relationship. This is the lowest level of cohesion.
+
+## Coupling and Its Types:
+
+- **Coupling:** Coupling is a measure of the degree of interaction or interdependence between two modules. It indicates how much one module relies on or is affected by another module.
+
+### Types of Coupling:
+
+1. **Data Coupling:**
+   - Data coupling occurs when two modules share data, but they do not share their internal logic. They exchange information using parameters or data structures.
+
+2. **Stamp Coupling:**
+   - Stamp coupling happens when modules share complex data structures, like records or arrays, and use only a portion of the data. This type of coupling should be avoided as it can lead to unnecessary dependencies.
+
+3. **Control Coupling:**
+   - Control coupling occurs when one module controls the behavior of another by passing control information. This implies a higher level of interdependence.
+
+4. **Common Coupling:**
+   - Common coupling arises when modules share global data. Any changes to the global data affect multiple modules, making them tightly coupled.
+
+5. **Content Coupling:**
+   - Content coupling is considered the strongest form of coupling. It occurs when one module accesses or modifies the internal data or behavior of another module.
+
+
+
+
 
 
 
