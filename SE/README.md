@@ -148,6 +148,14 @@ During the design phase, the following items are designed and documented:
    - Content coupling is considered the strongest form of coupling. It occurs when one module accesses or modifies the internal data or behavior of another module.
 
 
+## Function-Oriented Design vs Object-Oriented Design  
+
+| Aspect                   | Function-Oriented Design | Object-Oriented Design   |
+|--------------------------|---------------------------|--------------------------|
+| Approach                 | Top-down approach         | Bottom-up approach       |
+| Analysis and Design Method | Structured Analysis and Structured Design | Unified Modeling Language (UML) |
+| Programming Language     | Procedural Languages (e.g., C) | Object-Oriented Languages (e.g., Java, C#, C++) |
+| Description              | Breaks the system into smaller functions and orchestrates them to achieve functionality | Views the system as a collection of interacting objects, each encapsulating data and behavior, with an emphasis on encapsulation, inheritance, and polymorphism. |
 
 
 
