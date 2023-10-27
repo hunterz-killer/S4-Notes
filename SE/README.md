@@ -177,7 +177,7 @@ UML diagrams are used to represent various views or models of a system. These di
       - Represents the interactions between users and the system, focusing on functionalities or use cases.
     
         
-  ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/bef21dfb-ec2e-40dd-b1e6-9fe846754145)
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/bef21dfb-ec2e-40dd-b1e6-9fe846754145)
 
 
 
@@ -185,31 +185,56 @@ UML diagrams are used to represent various views or models of a system. These di
    - *Class Diagram:*
       - Illustrates the static structure of the system, depicting classes, their attributes, and relationships.
     
-
-  ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/239f31da-4936-4268-b6d2-ee3f46b9534b)
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/239f31da-4936-4268-b6d2-ee3f46b9534b)
 
 
    - *Object Diagram:*
       - Offers a snapshot of the system, showing instances of classes and their relationships at a specific point in time.
-    
-        
-![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/6c15c51a-9181-44c0-87e3-0ac33b5603a8)
+   
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/6c15c51a-9181-44c0-87e3-0ac33b5603a8)
 
 
 
 3. **Behavioral View:**
-   - *Sequence Diagram:* Depicts the interactions between objects over time, showcasing the order of messages.
-   - *Collaboration Diagram:* Similar to a sequence diagram, it emphasizes the relationships between objects.
-   - *State-Chart Diagram:* Models the behavior of a single object or system, showing its states and transitions.
-   - *Activity Diagram:* Illustrates the dynamic aspects of a system, focusing on workflow and flow of actions.
+   - *Sequence Diagram:*
+      - Depicts the interactions between objects over time, showcasing the order of messages.
+     
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/47a88a9e-8e20-4cb4-9dd1-81371f1ad812)
 
-4. **Implementation View:**
+   - *Collaboration Diagram:*
+      - Similar to a sequence diagram, it emphasizes the relationships between objects.
+   
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/2a93f9d5-836c-4898-846d-f837cb2979b3)
+
+   - *State-Chart Diagram:*
+      - Models the behavior of a single object or system, showing its states and transitions.
+   
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/19c5f9c9-2404-42f7-b7b1-90e18e808e8f)
+
+    - *Activity Diagram:*
+      - Illustrates the dynamic aspects of a system, focusing on workflow and flow of actions.
+        
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/f8bac4f2-5f50-4ab0-8184-4f1a68f40ad0)
+ 
+
+5. **Implementation View:**
    - *Component Diagram:* Represents the organization and dependencies of components in a system, including libraries, executables, etc.
+  
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/8daba052-773a-40ea-a223-4bb97518d1f6)
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/3fe12d3e-2bea-4bad-bb26-dcb6e0fac574)
 
-5. **Environmental View:**
+
+6. **Environmental View:**
    - *Deployment Diagram:* Shows the physical arrangement of hardware and software elements in a system, including nodes, components, and connections.
 
-These UML diagrams collectively provide a comprehensive view of a system from various perspectives.
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/2b9a7cb2-fd0f-469c-9806-5d526a76bc3b)
+   ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/60459985-09ca-454b-9c7b-61168808d217)
+
+
+
+
+
+
 
 
 
