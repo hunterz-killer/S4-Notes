@@ -942,11 +942,106 @@ These elements collectively form a comprehensive description of a design pattern
   - A module that has undergone a change due to mutation testing is referred to as a mutant of the original module.
 
 
+## Boundary Value Analysis:
+
+- Boundary Value Analysis (BVA) is a testing technique that is closely related to Equivalence Partitioning.
+
+- It involves testing both sides of each boundary to ensure that the system behaves correctly on either side of a boundary.
+
+- The assumption behind BVA is that the behavior of the system may differ at the boundaries. Therefore, testing at these boundaries is crucial.
+
+- The main focus of Boundary Value Analysis is to select test cases at the boundaries of different equivalence classes.
+
+This technique is particularly effective in uncovering errors or defects that are likely to occur at the edges or boundaries of input ranges. By testing at these critical points, it helps ensure robustness and thoroughness in the testing process.
+
+## Black Box Testing:
+
+- Black Box Testing is a software testing method where the functionalities of a software application are tested without having knowledge of the internal code structure, implementation details, or internal path.
+
+### Types of Black Box Testing:
+
+1. **Functional Testing:**
+   - Functional testing focuses on verifying that the software functions according to the specified requirements. It checks whether the software performs its intended tasks correctly.
+
+2. **Non-Functional Testing:**
+   - Non-functional testing evaluates aspects of the software beyond its basic functionality. This includes testing for performance, usability, security, and other non-functional attributes.
+
+3. **Regression Testing:**
+   - Regression testing ensures that changes or updates to the software do not introduce new defects or break existing functionality. It checks whether the latest version of the software still meets the requirements.
+
+## Graph-Based Testing:
+
+- Graph-Based Testing is an approach where testing begins by creating a graph that represents important objects and their relationships within the software.
+- The goal is to design test cases that cover the graph comprehensively, ensuring that each object and relationship is exercised.
+- This helps in uncovering errors or issues in the software's behavior and functionality.
 
 
+## Behavioural Testing Methods:
+
+1. **Transaction Flow Modeling:**
+   - Transaction Flow Modeling involves using Data Flow Diagrams (DFD) to create graphical representations of the flow of transactions within a system. This method helps in understanding how transactions move through the system and can be used as a basis for creating test cases.
+
+2. **Finite State Modeling:**
+   - Finite State Modeling utilizes State diagrams to create graphical models of the different states that a system or component can be in, as well as the transitions between these states. This method is particularly useful for testing systems with defined states and state transitions.
+
+3. **Data Flow Modeling:**
+   - Data Flow Modeling focuses on nodes representing data objects and links representing the transformations that occur to convert one data object into another. This method helps in understanding how data moves through the system and can aid in designing test cases.
+
+4. **Timing Modeling:**
+   - Timing Modeling involves using nodes to represent program objects and links to represent sequential connections between these objects. Additionally, link weights are used to specify the required execution times as the program executes. This method is crucial for testing real-time systems where timing is a critical factor.
+
+## Decision Table-Based Testing:
+
+- Decision Table-Based Testing is a testing technique that revolves around logical decisions in a software system.
+
+- It involves creating a table that includes conditions and describes various scenarios based on different combinations of input values.
+
+- Decision tables are particularly useful in handling complex scenarios where there are numerous possible combinations of inputs.
+
+- This technique helps in identifying impossible or invalid combinations of input values, which can be crucial for ensuring the correctness and robustness of the software.
+
+- However, it's worth noting that decision tables may not be an intuitive or obvious solution for every testing problem, and their effectiveness depends on the complexity and nature of the system being tested.
 
 
+## Equivalence Class Partitioning:
 
+- Equivalence Class Partitioning is a test design technique used to systematically divide input test data into partitions or groups.
+
+- The main idea behind this technique is to test each partition only once, with the assumption that any input within a partition is equivalent and will produce the same output. In other words, inputs within the same partition are expected to exhibit similar behavior.
+
+- This technique simplifies testing by reducing the number of test cases needed to represent various input scenarios. It ensures that each partition is adequately tested without the need to test every possible input value individually.
+
+- Equivalence Class Partitioning is particularly useful in situations where the input domain is extensive, and it helps in ensuring test coverage while minimizing the number of test cases required.
+
+
+## Gray Box Testing:
+
+- Gray Box Testing is a testing approach that combines elements of both black box testing and white box testing.
+
+- In Gray Box Testing, testers have partial knowledge of the internal workings or code structure of the software being tested. This partial knowledge allows them to design test cases based on an understanding of the code's logic.
+
+- Gray Box Testing leverages the input and insights of both developers and testers, leading to an improved overall product quality.
+
+- It helps in reducing the overhead associated with the extensive testing of both functional and non-functional aspects of the software.
+
+- Gray Box Testing provides developers with ample time to address defects found during testing.
+
+- This approach focuses on testing from the user's perspective rather than the designer's perspective, ensuring that the software meets user expectations and requirements.
+
+
+## Gray Box Testing Techniques:
+
+1. **Matrix Testing:**
+   - Matrix Testing is a gray box testing technique that involves creating a matrix to systematically test different combinations of inputs and conditions. It helps in identifying scenarios where the behavior of the software might vary based on multiple factors.
+
+2. **Regression Testing:**
+   - Regression Testing, although commonly associated with black box testing, can also be applied in a gray box testing context. It involves retesting the software after making changes or enhancements to ensure that existing functionality is not adversely affected.
+
+3. **Orthogonal Array Testing:**
+   - Orthogonal Array Testing is a gray box testing technique that focuses on creating orthogonal arrays to select a representative set of test cases. It aims to cover various combinations of input parameters efficiently.
+
+4. **Pattern Testing:**
+   - Pattern Testing is a gray box testing approach that involves identifying and testing specific patterns in the software's behavior or code. Testers may use their partial knowledge of the code to target areas where patterns of defects are likely to occur.
 
 
 
