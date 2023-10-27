@@ -76,6 +76,10 @@
 1. [Gray Box Testing Techniques](#gray-box-testing-techniques)
 1. [Model-Based Testing](#model-based-testing)
 1. [Navigation Testing](#navigation-testing)
+1. [Configuration Testing**](#configuration-testing**)
+1. [Performance Testing](#performance-testing)
+1. [Load Testing](#load-testing)
+1. [Stress testing](#stress-testing)
 
 
 ## Software Design:
