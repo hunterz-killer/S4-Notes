@@ -159,6 +159,57 @@ During the design phase, the following items are designed and documented:
 
 
 
+## Unified Modeling Language (UML):
+
+- UML serves as a language for documenting models in software engineering.
+
+- It encompasses both syntax (rules for forming sentences and using basic symbols) and semantics (meaning of symbols and sentences).
+
+- UML offers a range of fundamental graphical notations, such as rectangles, lines, ellipses, etc. These elements can be combined in specific ways to document design and analysis outcomes.
+
+
+## UML Diagrams and Their Views:
+
+UML diagrams are used to represent various views or models of a system. These diagrams include:
+
+1. **User's View:**
+   - *Use Case Diagram:*
+      - Represents the interactions between users and the system, focusing on functionalities or use cases.
+    
+        
+  ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/bef21dfb-ec2e-40dd-b1e6-9fe846754145)
+
+
+
+2. **Structural View:**
+   - *Class Diagram:*
+      - Illustrates the static structure of the system, depicting classes, their attributes, and relationships.
+    
+
+  ![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/239f31da-4936-4268-b6d2-ee3f46b9534b)
+
+
+   - *Object Diagram:*
+      - Offers a snapshot of the system, showing instances of classes and their relationships at a specific point in time.
+    
+        
+![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/6c15c51a-9181-44c0-87e3-0ac33b5603a8)
+
+
+
+3. **Behavioral View:**
+   - *Sequence Diagram:* Depicts the interactions between objects over time, showcasing the order of messages.
+   - *Collaboration Diagram:* Similar to a sequence diagram, it emphasizes the relationships between objects.
+   - *State-Chart Diagram:* Models the behavior of a single object or system, showing its states and transitions.
+   - *Activity Diagram:* Illustrates the dynamic aspects of a system, focusing on workflow and flow of actions.
+
+4. **Implementation View:**
+   - *Component Diagram:* Represents the organization and dependencies of components in a system, including libraries, executables, etc.
+
+5. **Environmental View:**
+   - *Deployment Diagram:* Shows the physical arrangement of hardware and software elements in a system, including nodes, components, and connections.
+
+These UML diagrams collectively provide a comprehensive view of a system from various perspectives.
 
 
 
