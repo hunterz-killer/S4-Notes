@@ -76,7 +76,7 @@
 1. [Gray Box Testing Techniques](#gray-box-testing-techniques)
 1. [Model-Based Testing](#model-based-testing)
 1. [Navigation Testing](#navigation-testing)
-1. [Configuration Testing**](#configuration-testing**)
+1. [Configuration Testing](#configuration-testing)
 1. [Performance Testing](#performance-testing)
 1. [Load Testing](#load-testing)
 1. [Stress testing](#stress-testing)
@@ -1197,6 +1197,7 @@ Within configuration testing, it's crucial to address security issues, which enc
 
 
 ## Performance Testing
+
 - Performance Testing addresses critical questions related to an application's responsiveness and stability under various loads and conditions.
 - By conducting thorough performance testing, organizations can pinpoint potential bottlenecks, optimize system components, and ensure that the application performs optimally under real-world conditions. This, in turn, leads to enhanced user satisfaction and higher confidence in the application's reliability.
 
