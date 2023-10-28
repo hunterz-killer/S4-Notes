@@ -5,6 +5,8 @@
 ## Table of contents
 1. [Software Engineering](#software-engineering)
 1. [Software and its Classification](#software-and-its-classification)
+1. [Layered Technology in Software Engineering](#layered-technology-in-software-engineering)
+1. [Software Process Framework](#software-process-framework)
 1. [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
 1. [Waterfall Model](#waterfall-model)
 1. [V-Model](#v-model)
