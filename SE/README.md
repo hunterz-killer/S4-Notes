@@ -82,6 +82,442 @@
 1. [Load Testing](#load-testing)
 1. [Stress testing](#stress-testing)
 
+------
+
+## Software Engineering:
+
+- **Definition:** Software engineering is a systematic and disciplined approach to the design, development, testing, and maintenance of software systems. It involves the application of engineering principles to software development, aiming to produce high-quality, reliable, and cost-effective software solutions.
+
+- **Key Aspects of Software Engineering:**
+
+   1. **Systematic Approach:** It follows a structured and organized methodology, involving defined processes, tools, and techniques.
+   
+   2. **Requirements Analysis:** Understanding and documenting the needs and expectations of stakeholders to define the software's functionalities.
+   
+   3. **Design and Architecture:** Creating a blueprint of the software system, including its structure, components, and interactions.
+   
+   4. **Coding and Implementation:** Writing the actual code based on the design, following coding standards and best practices.
+   
+   5. **Testing and Quality Assurance:** Rigorously testing the software to ensure it meets specified requirements and exhibits high-quality attributes.
+   
+   6. **Deployment and Integration:** Introducing the software into the operational environment, often involving integration with other systems.
+   
+   7. **Maintenance and Support:** Ongoing activities to manage, update, and enhance the software to address changing needs.
+
+- **Objectives of Software Engineering:**
+
+   - **Quality:** Produce software that is reliable, robust, and meets user expectations.
+   
+   - **Cost-effectiveness:** Develop and maintain software within budget constraints.
+   
+   - **Timeliness:** Deliver software solutions on schedule to meet business deadlines.
+   
+   - **Maintainability:** Ensure that the software can be easily updated, modified, and extended over time.
+   
+   - **Usability:** Create software that is user-friendly and intuitive for its intended audience.
+   
+   - **Sustainability:** Design software with longevity in mind, considering future needs and technological advancements.
+
+##  Software and its Classification
+
+Software is indeed classified based on various criteria, and one common classification is as follows:
+
+1. **System Software:**
+   - **Definition:** System software is a type of software designed to manage and control the hardware components of a computer system. It provides essential services for the computer's operation.
+   - **Examples:** Operating systems like Windows, macOS, Linux, and firmware that controls hardware components.
+
+2. **Application Software:**
+   - **Definition:** Application software is designed to perform specific tasks or provide functionality for end-users. It is what users interact with directly to accomplish their goals.
+   - **Examples:** Word processors, web browsers, spreadsheet applications, games, and multimedia software.
+
+3. **Engineering/Scientific Software:**
+   - **Definition:** Engineering and scientific software are specialized applications designed for engineers, scientists, and researchers to perform complex calculations, simulations, and data analysis.
+   - **Examples:** MATLAB, AutoCAD, ANSYS, and computational chemistry software.
+
+4. **Embedded Software:**
+   - **Definition:** Embedded software is designed to run on embedded systems, such as microcontrollers, and is often used in devices where real-time operation and resource efficiency are critical.
+   - **Examples:** Firmware in consumer electronics, automotive control systems, and IoT devices.
+
+5. **Artificial Intelligence (AI) Software:**
+   - **Definition:** AI software is built to replicate human-like cognitive functions, enabling machines to learn, reason, and make decisions.
+   - **Examples:** Machine learning frameworks like TensorFlow, natural language processing tools, and AI chatbots.
+
+6. **Web/Mobile-Based Software:**
+   - **Definition:** Web and mobile-based software is developed for use on web browsers and mobile devices, providing access to services and information online.
+   - **Examples:** Web applications like online banking systems, social media platforms, mobile apps for smartphones and tablets.
+
+7. **Real-time Software:**
+   - **Definition:** Real-time software is designed to execute tasks with precise timing and in response to real-world events. It is commonly used in systems where immediate responses are critical.
+   - **Examples:** Embedded real-time operating systems, automotive control software, and aviation systems.
+
+**Layered Technology in Software Engineering**
+
+Software engineering is structured as a layered technology, consisting of four key layers:
+
+1. **Tool Layer:**
+   - Involves the use of software development tools.
+   - These tools include text editors, integrated development environments (IDEs), version control systems, and debugging software.
+   - Tools aid developers in writing, testing, and managing code efficiently.
+
+2. **Methods Layer:**
+   - Focuses on the techniques and practices used for designing and building software.
+   - It encompasses methodologies like Waterfall, Agile, Scrum, and Object-Oriented Analysis and Design (OOAD).
+   - Methods guide the systematic development of software projects.
+
+3. **Process Layer:**
+   - Defines the workflow and activities involved in software development.
+   - It includes phases such as requirements analysis, design, implementation, testing, and maintenance.
+   - Processes ensure a structured approach to creating software.
+
+4. **Quality Layer:**
+   - Concerned with ensuring the quality of the software product.
+   - Quality factors encompass reliability, performance, maintainability, and user-friendliness.
+   - Quality assurance and testing are integral components of this layer.
+
+
+
+**Software Process Framework**
+
+![image](https://github.com/hunterz-killer/S4-Notes/assets/82221655/0521236f-6c4d-4211-94d7-fa1a96a3d76f)
+
+- **Common Process Framework:**
+  - Establishes a foundational structure for all software projects, irrespective of their size or complexity.
+  - Defines a set of essential framework activities that form the core of the development process.
+
+- **Framework Activities:**
+  - These are fundamental activities applicable to all software projects:
+    1. **Communication:** Facilitates effective interaction among project stakeholders.
+    2. **Planning:** Involves project planning and management tasks.
+    3. **Modeling:** Creates various models and documents to describe the software.
+    4. **Construction:** The actual coding and development of the software.
+    5. **Deployment:** Involves deployment and delivery of the software to users.
+    6. **Quality Assurance:** Ensures the software meets specified quality standards.
+    7. **Review:** Periodic evaluations of project progress and deliverables.
+    8. **Measurement:** Collects and analyzes project metrics for decision-making.
+
+- **Task Sets:**
+  - Each task set represents a collection of work tasks, project milestones, work products, and quality assurance checkpoints.
+  - Task sets are tailored to the specific needs of the project and team, ensuring they align with project requirements and characteristics.
+
+- **Adaptation to Project Characteristics:**
+  - Allows customization of the framework activities to suit the unique attributes of the software project.
+  - Ensures that the process is adjusted to address project-specific challenges and goals.
+
+- **Adaptation to Project Team Requirements:**
+  - Permits modifications to the process to accommodate the skills and preferences of the project team.
+  - Ensures the chosen process is feasible and productive for the team members.
+
+- **Umbrella Activities:**
+  - **Software Quality Assurance:**
+    - Focuses on maintaining and enhancing software quality throughout the development process.
+    - Includes activities like code reviews, testing, and process compliance checks.
+
+  - **Software Configuration Management:**
+    - Manages and tracks changes to the software and its documentation.
+    - Controls versioning, release management, and configuration baselines.
+
+  - **Measurement:**
+    - Involves the collection and analysis of metrics to assess project progress and quality.
+    - Supports data-driven decision-making and process improvement.
+
+- **Overlaying the Process Model:**
+  - Umbrella activities are not tied to any specific framework activity and are continuous throughout the software development process.
+  - They provide essential support, ensuring the process's integrity and effectiveness.
+
+This framework promotes consistency, adaptability, and quality in software development by defining core activities, accommodating project-specific needs, and integrating critical umbrella activities.
+
+
+## Software Development Life Cycle (SDLC)
+SDLC models provide a structured approach to software development, allowing teams to select the one that best suits their project's needs and goals.
+
+- **Definition:**
+  - SDLC is a structured framework that guides software development tasks at each step of the process.
+  - Its primary goal is to produce well-documented and maintainable software with predictability.
+
+- **Framework Elements:**
+  - **Detailed Plan:** Specifies how to develop, maintain, and replace specific software.
+  - **Methodology:** Aims to enhance software quality and the overall development process.
+
+- **Types of SDLC Models:**
+  1. **Waterfall Model:**
+     - Sequential approach with distinct phases like requirements, design, implementation, testing, and maintenance.
+     - Progress flows in one direction, and each phase must be completed before moving to the next.
+
+  2. **V-Model:**
+     - Correlates testing phases with development phases.
+     - Emphasizes validation and verification activities for each development stage.
+
+  3. **Prototype Model:**
+     - Involves the creation of a preliminary working model to refine requirements.
+     - Allows for early user feedback and iteration.
+
+  4. **Incremental Model:**
+     - Software is built in small, manageable portions (increments).
+     - Each increment adds new functionality, enhancing the product gradually.
+
+  5. **Iterative Model:**
+     - Similar to the incremental model but with iterative development cycles.
+     - Each iteration refines and expands the software based on feedback.
+
+  6. **Spiral Model:**
+     - Combines iterative development with risk analysis and planning.
+     - Progresses through multiple spirals, each addressing development, risk assessment, and planning.
+
+  7. **Agile Model:**
+     - Emphasizes flexibility and collaboration.
+     - Work is divided into short iterations (sprints) with frequent customer feedback.
+
+
+
+## Waterfall Model:
+
+   - **Explanation:** The Waterfall Model is a project management approach characterized by its linear and sequential structure. In this model, each phase of the project must be completed before the next one begins, making it a highly structured and systematic method of development.
+
+   - **Key Points:**
+     1. **Highly Structured Management**: The Waterfall Model offers a structured framework for project management, making it easy to plan, monitor, and control each phase.
+     2. **Emphasis on Documentation**: It places a strong emphasis on comprehensive documentation at each stage. This ensures that every aspect of the project is well-documented, aiding in clarity and accountability.
+     3. **Limited Customer Involvement**: Customer involvement is typically minimal until the final stage. This means that clients may not have significant input until the end of the project, which can be a drawback in dynamic environments.
+     4. **Suitability for Well-Defined Projects**: It is most effective for projects with clearly defined and stable requirements. When the project scope is well-understood from the outset, the Waterfall Model can be highly effective.
+     5. **Limited Adaptability**: One of the significant drawbacks is its limited adaptability to changing requirements. Once a phase is completed, it's challenging to go back and make substantial alterations without potentially disrupting the entire process.
+
+   - **Advantages:**
+     - **Clarity and Documentation**: The Waterfall Model provides a clear and well-documented path for development, making it easier for teams to follow and for stakeholders to understand progress.
+     - **Manageability**: Its structured nature makes it relatively easy to manage, especially for experienced project managers who are accustomed to this approach.
+     - **Suitable for Stable Projects**: It is particularly well-suited for projects with stable and well-defined requirements, where changes are not anticipated.
+
+   - **Disadvantages:**
+     - **Inflexibility to Change**: Its rigidity can be a significant disadvantage in dynamic environments. Adapting to changing requirements can be difficult once the project has moved beyond its initial phases.
+     - **Long Feedback Loops**: Due to limited customer involvement until the later stages, there can be a prolonged period before obtaining meaningful customer feedback, which may lead to potential issues being identified late in the process.
+
+## V-Model:
+
+   - **Explanation:** The V-Model is a software development and testing framework that correlates testing phases with corresponding development phases in a parallel fashion. It is so named because of its visual representation, which forms a V-shape, illustrating the relationship between development and testing stages.
+
+   - **Key Points:**
+     1. **Early Emphasis on Testing**: The V-Model places a strong emphasis on testing right from the early stages of the development process. This ensures that defects and issues are identified and addressed as early as possible.
+     2. **Corresponding Development and Testing Phases**: Each phase of the development process has a corresponding testing phase. For instance, requirements analysis is matched with requirements testing, design with design testing, and so forth.
+     3. **Enhanced Verification and Validation**: By aligning testing with development, the V-Model facilitates rigorous verification and validation processes, leading to higher quality outputs.
+     4. **Comprehensive Documentation**: Like the Waterfall Model, the V-Model requires thorough documentation at each stage to ensure that all aspects of the project are well-documented and easily traceable.
+     5. **Slower Pace Compared to Agile**: It tends to be slower in comparison to agile methodologies, primarily due to the sequential nature of its phases.
+
+   - **Advantages:**
+     - **Improved Quality through Early Testing**: The V-Model's focus on early testing helps in detecting and rectifying defects at a stage when they are less costly to fix.
+     - **Clear Traceability**: It provides clear traceability between requirements and testing phases, ensuring that every aspect of the project aligns with its corresponding testing process.
+
+   - **Disadvantages:**
+     - **Inflexible to Changes**: Similar to the Waterfall Model, the V-Model can be inflexible when it comes to accommodating changes once the project is underway. Deviations from the initial plan can be challenging to implement.
+     - **Documentation-Heavy and Time-Consuming**: The comprehensive documentation requirements can be time-consuming and may require significant resources, potentially slowing down the development process. This can be a drawback in fast-paced environments where speed to market is crucial.
+
+
+
+## Prototype Model:
+
+   - **Explanation:** The Prototype Model is a dynamic software development approach that involves creating a preliminary working model of the system to refine requirements and ensure they align with user needs and expectations.
+
+   - **Key Points:**
+     1. **Early User Feedback**: This model encourages early user involvement, providing stakeholders with a tangible representation of the system. This enables them to offer feedback and refine requirements at an early stage.
+     2. **Swift Initial Development**: The Prototype Model allows for a faster development of the initial version compared to traditional sequential models like Waterfall or V-Model.
+     3. **Adaptability to Evolving Requirements**: It is particularly well-suited for projects with requirements that are expected to evolve over time. The iterative nature of the process allows for flexibility and adaptation.
+     4. **Potential for Misconceptions**: There's a potential risk of users mistaking the prototype for the final product. This can lead to misconceptions or unmet expectations if not managed properly.
+     5. **Iterative Refinements**: The model follows an iterative approach where the prototype is refined through multiple cycles based on feedback and evolving requirements.
+
+   - **Advantages:**
+     - **User Involvement**: The Prototype Model fosters user involvement from the early stages, ensuring that the end product aligns closely with user expectations.
+     - **Quick Feedback Loop**: It enables rapid feedback and allows for prompt adaptation to changing requirements, making it well-suited for dynamic project environments.
+
+   - **Disadvantages:**
+     - **Scope Creep**: There's a risk of scope creep if the refinement process is not managed effectively. Additional features may be continuously added, potentially extending the project timeline and budget.
+     - **Design and Maintenance Effort**: Designing and maintaining prototypes can require significant effort, especially if multiple iterations are needed. This can be resource-intensive, particularly for complex systems.
+
+
+## Incremental Model:
+
+   - **Explanation:** The Incremental Model is a development approach that breaks down a software project into small, manageable portions, known as increments. These increments are developed and delivered in stages, each one adding new functionality to the evolving system.
+
+   - **Key Points:**
+     1. **Staged Development**: Software development occurs in distinct stages, with each stage adding new features or functionality to the existing system.
+     2. **Addition of New Functionality**: With each increment, new features or components are integrated into the existing system, gradually enhancing its capabilities.
+     3. **Early Delivery of Partial Systems**: The Incremental Model allows for the early delivery of functional components, providing stakeholders with tangible progress even before the entire system is complete.
+     4. **Integration of New Features**: This approach facilitates the smooth integration of new features, ensuring that they seamlessly work with the existing components.
+     5. **Ideal for Large, Complex Projects**: The Incremental Model is particularly well-suited for large and complex projects where breaking down the development process into manageable increments is crucial.
+
+   - **Advantages:**
+     - **Early Delivery of Functional Components**: Stakeholders can see tangible progress early on as functional components are delivered incrementally.
+     - **Manageability and Adaptability**: The incremental approach is easier to manage and allows for accommodating changes and feedback more effectively compared to traditional linear models.
+
+   - **Disadvantages:**
+     - **Integration Planning Required**: Careful planning is necessary to ensure that increments are integrated smoothly and seamlessly. Poor planning can lead to issues during the integration process.
+     - **Complex Testing during Integration**: Testing can become complex, especially when integrating increments that may have been developed separately. This requires a robust testing strategy to ensure overall system integrity.
+
+## Iterative Model:
+
+   - **Explanation:** The Iterative Model is akin to the Incremental Model but distinguishes itself through its focus on repeated cycles of development and refinement. In this approach, development occurs in small, repetitive iterations, with each cycle building upon the insights gained from the previous one.
+
+   - **Key Points:**
+     1. **Development in Cycles**: Unlike the linear progression of other models, the Iterative Model operates in small, repetitive cycles or iterations, allowing for continuous refinement.
+     2. **Feedback-Driven**: Feedback from each iteration informs the subsequent ones, enabling ongoing improvement and adjustment of the product.
+     3. **Flexibility for Requirement Changes**: This model offers flexibility for changing requirements, as adjustments can be seamlessly integrated into subsequent iterations.
+     4. **High Customer Involvement**: Customers play a pivotal role in the process, providing continuous feedback and ensuring that the product aligns with their evolving needs and expectations.
+     5. **Risk Management and Problem Resolution**: Risk management and problem resolution are addressed throughout the project's lifecycle, reducing the likelihood of major issues emerging late in the development process.
+
+   - **Advantages:**
+     - **Adaptability to Changing Requirements**: The Iterative Model excels in environments where requirements are subject to change. It allows for seamless incorporation of modifications based on ongoing feedback.
+     - **Frequent Customer Feedback**: With high customer involvement and continuous feedback loops, this model ensures that the end product closely aligns with customer expectations.
+
+   - **Disadvantages:**
+     - **Active Customer Participation Required**: Successful implementation of the Iterative Model necessitates active and engaged customer participation throughout the development process.
+     - **Potential for Scope Changes**: The iterative nature of the model may lead to scope changes during iterations. It's important to manage these changes effectively to avoid scope creep.
+
+## Spiral Model:
+
+   - **Explanation:** The Spiral Model is a sophisticated software development approach that combines elements of iterative development with a focus on risk analysis and planning. It is named for its cyclical structure, symbolizing the iterative and risk-driven nature of the model.
+
+   - **Key Points:**
+     1. **Iterative Risk Assessment and Planning**: Each cycle in the Spiral Model involves iterative development with a strong emphasis on risk assessment and planning. This ensures that potential risks are identified and mitigated early in the project.
+     2. **Addressing High-Risk Areas Early**: The model places a particular emphasis on addressing high-risk areas of the project in the early stages. This proactive approach minimizes the likelihood of major issues emerging later on.
+     3. **Progression Through Multiple Spirals**: The development process progresses through multiple spirals, each one refining the software and building upon the insights gained from previous iterations.
+     4. **Suitability for Large and Complex Projects**: The Spiral Model is particularly well-suited for large and complex projects where the potential for unforeseen risks and uncertainties is high.
+     5. **Emphasis on Risk Management and Continuous Evaluation**: Risk management is a cornerstone of this model, with continuous evaluation of potential risks and their impact on the project's progress.
+
+   - **Advantages:**
+     - **Early Risk Mitigation**: The Spiral Model excels in identifying and mitigating risks early in the project lifecycle, reducing the likelihood of major disruptions later on.
+     - **Flexibility for Changes**: It provides flexibility in accommodating changes, making it suitable for projects with evolving requirements or uncertain environments.
+
+   - **Disadvantages:**
+     - **Complex and Resource-Intensive**: Implementing the Spiral Model can be complex and resource-intensive, requiring a comprehensive understanding of both the software development process and risk management.
+     - **Time-Consuming Planning**: Extensive planning is a characteristic of the Spiral Model, which can contribute to longer project timelines compared to more streamlined development approaches.
+
+
+## Agile Model:
+
+   - **Explanation:** The Agile Model is a dynamic and flexible approach to software development that emphasizes collaboration, adaptability, and customer involvement. Work is divided into short, time-boxed iterations, known as sprints, allowing for incremental delivery of functional software.
+
+   - **Key Points:**
+     1. **Sprint-Centric Development**: The Agile Model centers around delivering functional software in short, time-bound cycles known as sprints. This allows for rapid and continuous progress.
+     2. **Crucial Customer Involvement**: Customer involvement and feedback are paramount in the Agile Model. Customers play an active role in defining and validating requirements, ensuring the delivered product meets their needs.
+     3. **Adaptation to Changing Requirements**: Agile embraces change and allows for frequent adaptation to evolving requirements. This flexibility is a hallmark of the methodology.
+     4. **Close Collaboration**: The Agile Model encourages close collaboration within the development team and with stakeholders. This fosters transparency, shared understanding, and effective communication.
+     5. **Working Software Over Documentation**: While documentation is important, Agile prioritizes working software as the primary measure of progress. This ensures that tangible value is delivered at the end of each sprint.
+
+   - **Advantages:**
+     - **Flexibility and Responsiveness**: Agile is highly flexible and responsive to changing requirements, making it well-suited for dynamic project environments.
+     - **Continuous Customer Satisfaction**: The iterative delivery of functional software leads to continuous customer satisfaction and fosters strong client-developer relationships.
+
+   - **Disadvantages:**
+     - **Active Customer Participation Required**: Effective implementation of Agile necessitates active customer participation throughout the development process. This level of involvement may not always be feasible for all clients or projects.
+     - **Potential Challenges for Large Teams or Complex Projects**: Agile can be challenging to manage for large teams or complex projects, requiring a high level of coordination and discipline to ensure all team members are aligned and progress is synchronized.
+
+## Evolutionary Process Model
+
+- **Explanation:** The Evolutionary Process Model adopts an iterative approach to software development, focusing on gradual refinement of the software through repetitive cycles of development and enhancement.
+
+- **Key Points:**
+   1. **Iterative Development:** This model entails incremental development, where each iteration adds new features or fine-tunes existing ones.
+   2. **User Feedback:** Actively involving users in providing feedback for each iteration allows for continuous improvement and validation of the evolving software.
+   3. **Parallel Development:** In some cases, multiple versions of the software may be developed in parallel, exploring different design options simultaneously.
+   4. **Rapid Prototyping:** The use of prototypes and mock-ups is prevalent to visualize and refine requirements, ensuring they align with user expectations.
+   5. **Dynamic Requirements:** The Evolutionary Process Model is particularly effective for projects with requirements that are subject to change or are initially unclear.
+
+- **Advantages:**
+   - **Flexibility:** This model excels in accommodating changing requirements, making it well-suited for projects with evolving needs or uncertain environments.
+   - **User Involvement:** Actively involving users empowers them to directly influence and shape the final product, resulting in a solution closely aligned with their needs.
+   - **Early Value Delivery:** The delivery of functional software begins early in the process, allowing for continuous refinement and value addition with each iteration.
+
+- **Disadvantages:**
+   - **Potential for Scope Creep:** The iterative nature of the model may lead to the expansion of project scope, potentially extending timelines and resources beyond initial estimates.
+   - **Complexity:** Managing multiple versions and iterations concurrently can be challenging, requiring careful coordination and oversight.
+   - **Resource Intensive:** The Evolutionary Process Model demands active involvement from both stakeholders and the development team, potentially consuming more resources compared to some other development models.
+
+## Requirements Analysis and Specification
+
+1. **Preparation is Paramount:**
+   - In all plan-driven life cycle models, understanding and documenting customer requirements are prerequisites before initiating software development.
+   - Neglecting this crucial step leads to increased iterations in later phases and higher development costs.
+
+2. **Experienced Developer Insight:**
+   - Seasoned developers invest substantial time in comprehending and meticulously documenting customer requirements.
+   - They recognize that a clear grasp of the problem and accurate documentation are essential for crafting a satisfactory solution.
+
+3. **Documenting Success:**
+   - A high-quality requirements document is universally acknowledged as a critical factor for successfully completing a software development project.
+
+4. **Multifaceted Benefits:**
+   - A well-prepared requirements document not only aids in understanding various software features needed but also forms the foundation for activities in subsequent phases.
+
+5. **Pivotal for Project Success:**
+   - Effective formulation and documentation of requirements are indispensable for the success of all software development projects.
+
+## Phases of Requirements Analysis and Specification
+
+1. **Initiation after Feasibility Study:**
+   - This phase commences after the completion of the feasibility study, confirming the project's financial viability and technical feasibility.
+
+2. **Culmination with SRS Document:**
+   - It concludes once the Software Requirements Specification (SRS) document has been prepared and subjected to review.
+
+3. **Objective of the Phase:**
+   - The primary aim is to gain a clear understanding of customer requirements and methodically organize them into the SRS document.
+
+Certainly, let's delve deeper into Functional and Non-Functional Requirements:
+
+
+
+## Functional Requirements:
+
+**Definition:**
+Functional requirements outline the specific actions and behaviors a system or software application must perform. They focus on what the system should do to meet the user's needs and requirements.
+
+**Behavioral Expectations:**
+These requirements describe how the system will respond to various inputs, actions, and events. They define the expected behavior of the system under different circumstances.
+
+**Tangible Features:**
+Functional requirements deal with tangible features and functionalities of the system. They encompass tasks like data entry, data processing, calculations, and interactions with users or external systems.
+
+**Examples:**
+1. **User Authentication:**
+   - *Requirement:* Users must be able to log in using a valid username and password.
+   - *Behavior:* The system should verify the entered credentials against the stored user data and grant access upon successful authentication.
+
+2. **Inventory Management:**
+   - *Requirement:* The system must allow users to add, edit, and delete items in the inventory.
+   - *Behavior:* Users should be able to perform actions like adding new products, modifying existing ones, and removing outdated items.
+
+3. **E-commerce Checkout Process:**
+   - *Requirement:* Users should be able to add products to a shopping cart and complete the purchase.
+   - *Behavior:* The system should provide options to add items to a virtual cart, view the cart contents, and proceed to payment and checkout.
+
+
+## Non-Functional Requirements:
+
+**Definition:**
+Non-functional requirements define the attributes and constraints of the system. They focus on how the system should perform in terms of quality, usability, security, and other aspects, rather than specific functionalities.
+
+**Quality and Constraints:**
+These requirements encompass aspects such as performance, security, usability, reliability, and compliance with regulations or industry standards. They set the standards for the system's overall performance and behavior.
+
+**Not Directly Observable:**
+Non-functional requirements are often not directly observable by end-users. However, they play a crucial role in ensuring the system's effectiveness, efficiency, and acceptability.
+
+**Examples:**
+1. **Performance:**
+   - *Requirement:* The system must respond to user interactions within 2 seconds.
+   - *Quality Measure:* The system's response time should be optimized to provide a seamless user experience.
+
+2. **Security:**
+   - *Requirement:* User data must be encrypted during transmission.
+   - *Constraint:* The system should implement secure communication protocols like HTTPS to protect sensitive information.
+
+3. **Usability:**
+   - *Requirement:* The user interface must be intuitive and accessible to all users, including those with disabilities.
+   - *Quality Measure:* The system's interface should adhere to accessibility guidelines, ensuring a user-friendly experience for all.
+
+4. **Reliability:**
+   - *Requirement:* The system should have an uptime of at least 99.9%.
+   - *Quality Measure:* The system's reliability should be assessed based on its availability and ability to recover from failures.
+
+
+
+
 
 ## Software Design:
 - In the software design phase, a design document is created based on the customer requirements outlined in the SRS (Software Requirements Specification) document.
