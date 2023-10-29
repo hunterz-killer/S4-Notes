@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Question_2</title>
+</head>
+
+<style>
+    header {
+        background-color: #588c7e;
+        padding: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        font-size: 35px;
+    }
+
+    nav {
+        width: 100%;
+        overflow: hidden;
+        padding: auto;
+    }
+
+    footer {
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+        font-weight: bold;
+        color: #082c23;
+    }
+
+    nav a {
+        float: right;
+        text-decoration: none;
+        font-size: 20px;
+        color: #082c23;
+        padding: 14px 16px;
+    }
+
+    nav a:hover {
+        background-color: #e3f3eb;
+        color: #082c23;
+    }
+
+    nav img {
+        background-color: #ffffff;
+        float: left;
+        padding: 4px;
+    }
+
+    nav h3 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 25px;
+        margin: 0px 0px 0px 0px;
+        color: #ffffff;
+        float: left;
+        padding: 10px 16px;
+
+    }
+
+    body {
+        padding: 0px;
+        margin: 0px;
+        background-color: #e3f3eb;
+        text-align: center;
+        overflow-x: hidden;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body h3 {
+        font-size: 22px;
+        text-align: left;
+        margin: 0px 0px 0px 0px;
+        color: #082c23;
+    }
+
+
+    form {
+        width: 80%;
+        color: #588c7e;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: left;
+        border-radius: 10px;
+        padding: 10px;
+        border: #588c7e 3px solid;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    form input[type="text"],
+    form input[type="file"],
+    form input[type="email"],
+    form textarea,
+    form select {
+        width: 96%;
+        border: 1px solid #ccc;
+        background: #FFF;
+        font-size: 16px;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+    form input[type="submit"] {
+        width: 80%;
+        background-color: #588c7e;
+        color: white;
+        padding: 10px 10px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    label {
+        padding-top: 12px;
+        margin: 8px 0;
+        display: inline-block;
+    }
+</style>
+
+<body>
+    <header>
+        <nav>
+            <img src="https://www.strunkmedia.com/wp-content/uploads/2018/05/bigstock-Print-163213010.png" alt="logo"
+                height="40">
+            <h3>COIMBATORE</h3>
+            <a href="Question_2.html">Company Form</a>
+            <a href="Question_1.html">Table</a>
+            <a href="Question_3.html">Home</a>
+        </nav>
+
+    </header>
+
+    <h1>Question 2</h1>
+    <h2>Form - Company Details</h2>
+    <form>
+        <label>Company Name:</label>
+        <input type="text" name="companyName" placeholder="Enter Company Name" required>
+        <br>
+        <label>Company Address:</label>
+        <input type="text" name="companyAddress" placeholder="Enter Company Address" required>
+        <br>
+        <label>Company Phone Number:</label>
+        <input type="text" name="companyPhoneNumber" placeholder="Enter Company Phone Number" required>
+        <br>
+        <label>Company Email:</label>
+        <input type="email" name="companyEmail" placeholder="Enter Company Email" required>
+        <br>
+        <label>Company Website:</label>
+        <input type="text" name="companyWebsite" placeholder="Enter Company Website" required>
+        <br>
+        <label>Company Logo:</label>
+        <input type="file" name="companyLogo" accept="image/*">
+        <br>
+        <label>Company Description:</label>
+        <br>
+        <textarea name="companyDescription" rows="5" cols="50" placeholder="Enter Company Description"
+            required></textarea>
+        <br>
+        <label>Company Type:</label>
+        <br>
+        <input type="radio" name="companyType" value="Public" required>Public
+        <input type="radio" name="companyType" value="Private" required>Private
+        <br>
+        <label>Company Category:</label>
+        <select name="companyCategory" required>
+            <option value="IT">IT</option>
+            <option value="Finance">Finance</option>
+            <option value="Education">Education</option>
+            <option value="Health">Health</option>
+            <option value="Other">Other</option>
+        </select>
+        <br>
+        <label>Company Rating:</label>
+        <input type="range" name="companyRating" min="1" max="5" value="3" required>
+        <br>
+        <input type="checkbox" name="termsAndConditions" value="1" required> I agree to the terms and conditions
+        <!-- add a submit button -->
+        <input type="submit" value="Submit">
+
+    </form>
+
+    <footer>
+        <p>&copy; Srimath</p>
+    </footer>
+
+</body>
+
+</html>
